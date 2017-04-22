@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<ul class="insert">
+		<li>good_price<input type="text" value="" name='good_price'></li>
+		<li>good_number<input type="text" value="" name='good_number'></li>
+		<li>order_total<input type="text" value="" name='order_total'></li>
+		<li>address_id<input type="text" value="" name='address_id'></li>
+		<li>good_id<input type="text" name="good_id" /></li>
+	</ul>
+	<input type="button" value="添加">
+<hr>
+<hr>
+	order_id<input type="text" name="order_id" />
+
+	<input type="button" value="find">
+	<input type="button" value="findAll">
+	<input type="button" value="ByIdOnlyFindProduce">
+<hr>
+<hr>
+<input type="button" value="代付款">
+
+<input type="button" value="代发货">
+
+<input type="button" value="已收货">
+
+
+<hr>
+<hr>
+	
+	<input type="text" name="userId2" placeholder="userId">
+	<input type="text" name="cancelOrder" placeholder="orderId">
+	<input type="button" value="cancelOrder">
+<hr>
+<hr>	
+<input type="text" name="modifyId" placeholder="modifyId">
+<input type="text" name="modifyOrderStatus" placeholder="modifyOrderStatus">
+<input type="button" value="modifyOrderStatus">
+
+
+
+<script src="../../static/js/jquery-1.12.3.min.js"></script>
+<script>
+$(function(){
+	//添加	
+	var currentPage=1;        //默认 当前第一页
+	var num=2;                //默认 每页10条记录
+	var allPage;			  //总共有多少页
+	var data11={
+		num:num,
+		currentPage:currentPage
+	}            // 初始化
+
+	var ul=document.createElement('ul');
+	var li_first=document.createElement('li');
+	var li_next=document.createElement('li');
+	var li_pre=document.createElement('li');
+	var li_last=document.createElement('li');
+
+
+	li_first.setAttribute('style','background:#ddd;margin:0px 10px; cursor:pointer; color:#000;width:80px;height:30px;text-align:center;line-height:30px;float:left;list-style:none')
+	li_next.setAttribute('style','background:#ddd;margin:0px 10px; cursor:pointer;   color:#000;width:80px;height:30px;text-align:center;line-height:30px;float:left;list-style:none')
+	li_pre.setAttribute('style', 'background:#ddd;margin:0px 10px; cursor:pointer;   color:#000;width:80px;height:30px;text-align:center;line-height:30px;float:left;list-style:none')
+	li_last.setAttribute('style','background:#ddd;margin:0px 10px; cursor:pointer;   color:#000;width:80px;height:30px;text-align:center;line-height:30px;float:left;list-style:none')
+
+	li_first.setAttribute('id','li_first')
+	li_next.setAttribute('id','li_next')
+	li_pre.setAttribute('id','li_pre')
+	li_last.setAttribute('id','li_last')
+
+	ul.appendChild(li_first);
+	ul.appendChild(li_next);
+	ul.appendChild(li_pre);
+	ul.appendChild(li_last);
+
+	li_first.innerHTML='首页';
+	li_next.innerHTML ='下一页';
+	li_pre.innerHTML  ='上一页';
+	li_last.innerHTML ='尾页';
+
+	function dd(a){
+		a.onmouseover=function(){
+			this.style.background='#333';
+			this.style.color='#fff';
+		}
+		a.onmouseout=function(){
+			this.style.background='#ddd';
+			this.style.color='#000';
+		}
+	}
+	dd(li_first)
+	dd(li_next)
+	dd(li_pre)
+	dd(li_last)
+	
+	document.body.appendChild(ul);
+
+	function getGoods(){
+		$.ajax({
+	        type:'post',
+		    url:'http://127.0.0.1/tp/public/index/Ordercontroller/getMSOrderList',
+	        data:data11,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	        console.log(re)
+	        	if(re.acount){
+	        		allPage=Math.ceil(re.acount/num);
+	        		console.log(allPage)
+	        	}
+	            doclick();
+		    }
+		})
+	}
+	getGoods();  
+	var doclick=function(){
+		li_first.onclick=function(){
+			if(data11.currentPage!=1){
+				getGoods();	
+				data11.currentPage=1;
+			}
+		}
+
+		li_next.onclick=function(){
+			if(data11.currentPage<allPage&&data11.currentPage>=1)
+			{
+				data11.currentPage++;
+				getGoods();	
+			}
+		}
+		li_pre.onclick=function(){		
+			if(data11.currentPage<=allPage&&data11.currentPage>1)
+			{
+				data11.currentPage--;
+				getGoods();	
+			}
+		}
+
+		li_last.onclick=function(){
+			if(data11.currentPage!=allPage){
+				getGoods();	
+				data11.currentPage=allPage;
+			}
+		}
+	}
+	
+	
+	
+
+
+
+
+
+	$("input[value='添加']").click(function(){
+
+		var data={
+			good_price:100,
+			good_number:100,
+			order_total:10000,
+			address_id:123,
+			good_id:185,
+			attr:{'a':'37','b':'黑色','v':'男款'},
+			user_id:143
+		}
+
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Ordercontroller/addOrder',  //和上面面同一个接口
+	        data:data,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.data)
+	            console.log(re.msg)
+	        }
+	    })
+	})
+
+
+	// // 查询
+	$("input[value='find']").click(function(){
+		var data={
+			id:$("input[name='order_id']").val()
+		}
+		$.ajax({
+		        type:'post',
+		        url:'http://127.0.0.1/tp/public/index/Ordercontroller/getOrderById',
+	            data:data,
+		        success:function(res){
+		        	var re=JSON.parse(res);
+		            console.log(re.data)
+	            console.log(re.msg)
+		    }
+		})
+	})
+	// 	// 查询
+
+	// /* 后台 订单列表*/
+	// $("input[value='findAll']").click(function(){
+	// 	$.ajax({
+	// 	        type:'post',
+	// 	        url:'http://127.0.0.1/tp/public/index/Ordercontroller/getMSOrderList',
+	// 	        success:function(res){
+	// 	        	var re=JSON.parse(res);
+	// 	            console.log(re.data)
+	//             console.log(re.msg)
+	// 	    }
+	// 	})
+	// })
+	// /*前台 订单列表*/
+	// 	$.ajax({
+	// 	        type:'post',
+	// 	        url:'http://127.0.0.1/tp/public/index/Ordercontroller/getOrder',
+	// 	        success:function(res){
+	// 	        	var re=JSON.parse(res);
+	// 	            console.log(re.data)
+	//             console.log(re.msg)
+	// 	    }
+	// 	})
+
+	// $("input[value='代发货']").click(function(){
+	// 	alert(1)
+	// 		// var order_status=$("input[name='order_status']").val();
+	// 		// var data={
+	// 		// 	order_status:order_status
+	// 		// }
+	// 		 $.ajax({
+	// 		        type:'post',
+	// 		        url:'http://127.0.0.1/tp/public/index/Ordercontroller/weitSend',
+	// 		        // data:data,
+	// 		        success:function(res){
+	// 		        	var re=JSON.parse(res);
+	// 		            console.log(re.data)
+	//             console.log(re.msg)
+	// 		    }
+	// 		})
+	// })
+
+	// $("input[value='代付款']").click(function(){
+	// 		// var order_status=$("input[name='order_status']").val();
+	// 		// var data={
+	// 		// 	order_status:order_status
+	// 		// }
+	// 		 $.ajax({
+	// 		        type:'post',
+	// 		        url:'http://127.0.0.1/tp/public/index/Ordercontroller/weitPay',
+	// 		        // data:data,
+	// 		        success:function(res){
+	// 		        	var re=JSON.parse(res);
+	// 		            console.log(re.data)
+	//             console.log(re.msg)
+	// 		    }
+	// 		})
+	// })
+
+	// $("input[value='已收货']").click(function(){
+	// 		// var order_status=$("input[name='order_status']").val();
+	// 		// var data={
+	// 		// 	order_status:order_status
+	// 		// }
+	// 		 $.ajax({
+	// 		        type:'post',
+	// 		        url:'http://127.0.0.1/tp/public/index/Ordercontroller/Receive',
+	// 		        // data:data,
+	// 		        success:function(res){
+	// 		        	var re=JSON.parse(res);
+	// 		            console.log(re.data)
+	//             	console.log(re.msg)
+	// 		    }
+	// 		})
+	// })
+	// /*取消订单*/
+	// $("input[value='cancelOrder']").click(function(){
+	// 		var user_id1=$("input[name='userId2']").val();
+	// 		var id1=$("input[name='cancelOrder']").val();
+	// 		var data1={
+	// 			user_id:user_id1,
+	// 			id:id1
+	// 		}
+	// 		 $.ajax({
+	// 		        type:'post',
+	// 		        url:'http://127.0.0.1/tp/public/index/Ordercontroller/cancelOrder',
+	// 		        data:data1,
+	// 		        success:function(res){
+	// 		        	var re=JSON.parse(res);
+	// 		            console.log(re.data);
+	//             	console.log(re.msg);
+	// 		    }
+	// 	    })
+	// })
+	// /*修改订单状态*/
+	// $("input[value='modifyOrderStatus']").click(function(){
+	// 		var order_status=$("input[name='modifyOrderStatus']").val();
+	// 		var id1=$("input[name='modifyId']").val();
+	// 		var data1={
+	// 			order_status:order_status,
+	// 			id:id1
+	// 		}
+	// 		 $.ajax({
+	// 		        type:'post',
+	// 		        url:'http://127.0.0.1/tp/public/index/Ordercontroller/modifyOrderStatus',
+	// 		        data:data1,
+	// 		        success:function(res){
+	// 		        	var re=JSON.parse(res);
+	// 		            console.log(re.data);
+	//             	console.log(re.msg);
+	// 		    }
+	// 	    })
+	// })
+
+})
+
+</script>
+
+</body>
+</html>

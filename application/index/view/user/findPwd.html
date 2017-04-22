@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>`</title>
+</head>
+<script src="../static/js/jquery-1.12.3.min.js"></script>
+<script>
+$(function(){
+	$('input[value="获取验证码"]').click(function(){
+		var email=$('input[name="email"]').val();
+		var data1={
+			email:email
+		}
+		$.ajax({
+			type:'post',
+			url:'http://127.0.0.1/tp/public/index/user/email',
+			data:data1,
+			success:function(res){
+				var dd=JSON.parse(res)
+				console.log(dd.msg)
+			}
+		})
+	})
+	$('input[value="btn"]').click(function(){
+		var email=$('input[name="email"]').val();
+		var code=$('input[name="code"]').val();
+		var password=$('input[name="password"]').val();
+		var rePassword=$('input[name="rePassword"]').val();
+		var data1={
+			email:email,
+			code:code,
+			password:password,
+			rePassword:rePassword
+		}
+		$.ajax({
+			type:'post',
+			url:'http://127.0.0.1/tp/public/index/user/doForgetPwd',
+			data:data1,
+			success:function(res){
+				var dd=JSON.parse(res)
+				console.log(dd.msg)
+			}
+		})
+	})
+})
+
+</script>
+<body>
+	<table>
+		<tr>
+			<td><input type="text" name="email" placeholder="email"></td>
+		</tr>
+		<tr>
+			<td><input type="text" name="code" placeholder='code'><input type="button" value='获取验证码'></td>
+		</tr>
+		<tr>
+			<td><input type="text" name="password" placeholder='password'></td>
+		</tr>
+		<tr>
+			<td><input type="text" name="rePassword" placeholder='rePassword'></td>
+		</tr>
+		<tr>
+			<td><input type="button" value="btn"></td>
+		</tr>
+	</table>
+
+
+</body>
+</html>

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<ul class="insert">
+		<li>id<input type="text" value="" name='id' placeholder="删除、修改的时候输入"></li>
+		<li>type<input type="text" value="" name='type'></li>
+		<li>text<input type="text" value="" name='text'></li>
+		<li>sort<input type="text" value="" name='sort'></li>
+		<li>link<input type="text" value="" name='link'></li>
+		<li>images<input type="file" name="image" /></li>
+		<li>createtime<input type="text" value="" name='createtime'></li>
+	</ul>
+	<input type="button" value="添加">
+	<input type="button" value='修改'>
+	<input type="button" value='删除'>
+
+<script src="../static/js/jquery-1.12.3.min.js"></script>
+<script>
+$(function(){
+	//添加
+	var images='';  //图片上传成功后，接收返回的图片路径    <--------------
+
+	$("input[type='file']").change(function() { 
+		var formdata = new FormData();
+		var v_this = $(this); 
+		var fileObj = v_this.get(0).files; 
+		formdata.append("imgFile", fileObj[0]); 
+		jQuery.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Slide/doUploadImg',  //和下面同一个接口
+			data : formdata, 
+        	cache : false, 
+			contentType : false, 
+			processData : false, 
+			dataType : "json", 
+			config: {
+				 headers: {'Content-Type': 'multipart/form-data'}
+			},
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	        	images=re.data;      //       <--------------
+	        }
+	    })
+		return false;  
+	}); 
+	
+	$("input[value='添加']").click(function(){
+
+		var li=$("ul.insert li");
+
+		var data={
+			type:$("input[name='type']").val(),
+			text:$("input[name='text']").val(),
+			link:$("input[name='link']").val(),
+			image:images,            //       <--------------
+			// createtime:$("input[name='createtime']").val(),
+			sort:$("input[name='sort']").val()
+		}
+
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Slide/addSlider',  //和上面面同一个接口
+	        data:data,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.data)
+	        }
+	    })
+	})
+	$("input[value='修改']").click(function(){
+		var data={
+			id:$("input[name='id']").val(),			
+			type:$("input[name='type']").val(),
+			text:$("input[name='text']").val(),
+			image:'',   
+			link:$("input[name='link']").val(),
+			sort:$("input[name='sort']").val()
+		}
+
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Slide/modifySlider',  //和上面面同一个接口
+	        data:data,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.data)
+	            console.log(re.msg)
+	        }
+	    })
+	})
+	$("input[value='删除']").click(function(){
+		var data={
+			id:$("input[name='id']").val()
+		}
+
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Slide/delSlider',  //和上面面同一个接口
+	        data:data,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.data)
+	            console.log(re.msg)
+	        }
+	    })
+	})
+
+	// $("input[value='添加']").click(function(){
+
+	// 	var li=$("ul.insert li");
+
+	// 	var data={
+	// 		type:$("input[name='type']").val(),
+	// 		text:$("input[name='text']").val(),
+	// 		link:$("input[name='link']").val(),
+	// 		// images:formdata,
+	// 		createtime:$("input[name='createtime']").val(),
+	// 		sort:$("input[name='sort']").val()
+	// 	}
+
+	//     $.ajax({
+	//         type:'post',
+	//         url:'http://127.0.0.1/tp/public/index/Slide/addSlider',
+	//         data:data,
+	//         success:function(res){
+	//         	var re=JSON.parse(res);
+	//             console.log(re.msg)
+	//         }
+	//     })
+	// })
+
+
+
+
+
+	// 查询
+	$.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Slide/getSlider',
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.data)
+	    }
+	})
+})
+
+</script>
+
+</body>
+</html>

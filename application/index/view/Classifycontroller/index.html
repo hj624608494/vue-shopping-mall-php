@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<ul class="insert">
+	<li>id<input type="text" name="id2" /></li>
+		<li>image<input type="file" name="image" /></li>
+		<li>text<input type="text" value="" name='text'></li>
+		<li>createtime<input type="text" value="" name='createtime'></li>
+		<li>sort<input type="text" value="" name='sort'></li>
+	</ul>
+	<input type="button" value="添加">
+	<input type="button" value="修改">
+	<input type="button" value="删除"> 
+
+	<hr>
+	<hr>
+
+<script src="../../static/js/jquery-1.12.3.min.js"></script>
+<script>
+$(function(){
+	//添加
+	var images=''; 
+	$("input[type='file']").change(function() { 
+		var formdata = new FormData();
+		var v_this = $(this); 
+		var fileObj = v_this.get(0).files; 
+		formdata.append("imgFile", fileObj[0]); 
+		jQuery.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Classifycontroller/doUploadImg',
+			data : formdata, 
+        	cache : false, 
+			contentType : false, 
+			processData : false, 
+			dataType : "json", 
+			config: {
+				 headers: {'Content-Type': 'multipart/form-data'}
+			},
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	        	images=re.data;      //       <--------------
+	        }
+	    })
+			return false;  
+	});
+	$("input[value='添加']").click(function(){
+
+		var li=$("ul.insert li");
+
+		var data={
+			// images:formdata,
+			image:images,
+			text:$("input[name='text']").val(),
+			createtime:$("input[name='createtime']").val(),
+			sort:$("input[name='sort']").val()
+
+		}
+
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Classifycontroller/addClassify',
+	        data:data,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.msg)
+	        }
+	    })
+	})
+
+	// 查询
+	$.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Classifycontroller/getClassify',
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.data)
+	    }
+	})
+	/*删除*/
+	$("input[value='删除']").click(function(){
+
+		var data={
+			id:$("input[name='id2']").val()
+		}
+
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Classifycontroller/delClassify',
+	        data:data,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(res)
+	            console.log(re.msg)
+	        }
+	    })
+	})
+	/*修改*/
+	$("input[value='修改']").click(function(){
+
+		var data={
+			id:$("input[name='id2']").val(),
+			text:$("input[name='text']").val(),
+			image:$("input[name='image']").val(),
+			createtime:$("input[name='createtime']").val(),
+			sort:$("input[name='sort']").val()
+		}
+
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Classifycontroller/modifyClassify',
+	        data:data,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(res)
+	            console.log(re.msg)
+	        }
+	    })
+	})
+})
+
+</script>
+
+</body>
+</html>

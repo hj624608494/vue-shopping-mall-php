@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<ul class="insert">
+		<li>uid<input type="text" name="uid" /></li>
+		<li>name<input type="text" value="" name='name'></li>
+		<li>phone<input type="text" value="" name='phone'></li>
+		<li>address<input type="text" value="" name='address'></li>
+		<li>province<input type="text" value="" name='province'></li>
+		<li>city<input type="text" value="" name='city'></li>
+		<li>area<input type="text" value="" name='area'></li>
+		<li>street<input type="text" value="" name='street'></li>
+		<li>createtime<input type="text" value="" name='createtime'></li>
+	</ul>
+	<input type="button" value="添加">
+	<input type="button" value="修改">
+	<hr>
+	<hr>
+	<li>id<input type="text" name="id2" /></li>
+	<li>uid<input type="text" name="uid2" /></li>
+	<input type="button" value="删除"> 
+
+<script src="../static/js/jquery-1.12.3.min.js"></script>
+<script>
+$(function(){
+	//添加
+	    // $.ajax({
+	    //     type:'post',
+	    //     url:'http://127.0.0.1/tp/public/index/Addresscontroller/getAddress',
+	    //     data:{uid:102},
+	    //     success:function(res){
+	    //     	var re=JSON.parse(res);
+	    //         console.log(re)
+	    //         console.log(re.msg)
+	    //     }
+	    // })
+	$("input[value='添加']").click(function(){
+
+		var li=$("ul.insert li");
+
+		var data={
+			uid:$("input[name='uid']").val(),
+			name:$("input[name='name']").val(),
+			phone:$("input[name='phone']").val(),
+			address:$("input[name='address']").val(),
+			province:$("input[name='province']").val(),
+			city:$("input[name='city']").val(),
+			area:$("input[name='area']").val(),
+			street:$("input[name='street']").val(),
+			// createtime:$("input[name='createtime']").val(),
+		}
+
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Addresscontroller/addAddress',
+	        data:data,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.msg)
+	        }
+	    })
+	})
+
+	$("input[value='修改']").click(function(){
+
+		var li=$("ul.insert li");
+
+		var data={
+			uid:$("input[name='uid']").val(),
+			name:$("input[name='name']").val(),
+			phone:$("input[name='phone']").val(),
+			address:$("input[name='address']").val(),
+			province:$("input[name='province']").val(),
+			city:$("input[name='city']").val(),
+			area:$("input[name='area']").val(),
+			street:$("input[name='street']").val(),
+			// createtime:$("input[name='createtime']").val(),
+		}
+
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Addresscontroller/modifyAddress',
+	        data:data,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.msg)
+	        }
+	    })
+	})
+
+	$("input[value='删除']").click(function(){
+
+		var data={
+			uid:$("input[name='uid2']").val(),
+			id:$("input[name='id2']").val()
+		}
+
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Addresscontroller/delAddress',
+	        data:data,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(res)
+	            console.log(re.msg)
+	        }
+	    })
+	})
+
+	// 查询
+	var data3={
+		uid:143
+	}
+	$.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Addresscontroller/getAddress',
+	        data:data3,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re)
+	    }
+	})
+
+})
+
+</script>
+
+</body>
+</html>

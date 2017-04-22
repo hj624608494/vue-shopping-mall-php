@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+<div id="loginAndRegist">
+	<input type="text">
+	<input type="password">
+	<input type="button" name="login" value="login">
+	<input type="button" name="regist" value="regist">
+	<input type="button" name="exit" value="exit">
+
+</div>
+<hr>
+<hr>
+删除用户：<input type="text" name="deleteUser"><input type="button" value="delUser"><br>	
+删除管理：<input type="text" name="deletemanager"><input type="button" value="delManager">
+
+<hr>
+<hr>
+<input type="button" value="managerList">
+<hr>
+<hr>
+<input type="text" name='keyword'>
+<input type="button" value="keyword">
+
+<script src="../static/js/jquery-1.12.3.min.js"></script>
+<script>
+
+$(function(){
+	/*keyword*/
+	$("input[value='keyword']").click(function(){
+		var data={
+			keyword:$('input[name="keyword"]').val()
+		}
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Managercontroller/managerFindInKeyWord',
+	        data:data,
+	        success:function(res){
+	        	console(res)
+	        	var re=JSON.parse(res);
+	            console.log(re.data)
+	            console.log(re.msg)
+	        }
+	    })
+	})
+	/*managerList*/
+	$("input[value='managerList']").click(function(){
+
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Managercontroller/managerList',
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.data)
+	            console.log(re.msg)
+
+	        }
+	    })
+	})
+	/*login*/
+	$("input[name='login']").click(function(){
+		var data={
+			username:$('input[type="text"]').val(),
+			password:$("input[type='password']").val()
+		}
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Managercontroller/doLogin',
+	        data:data,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.data)
+	            console.log(re.msg)
+
+	        }
+	    })
+	})
+	/*regist*/
+	$("input[name='regist']").click(function(){
+		var data={
+			username:$('input[type="text"]').val(),
+			password:$("input[type='password']").val()
+		}
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Managercontroller/doRegister',
+	        data:data,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.data)
+	        }
+	    })
+	})
+	/* 注销 */
+	$("input[name='exit']").click(function(){
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Managercontroller/doExit',
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.msg)
+	        }
+	    })
+	})
+	/* 删除普通用户 */
+	$("input[value='delUser']").click(function(){
+		var id=$("input[name='deleteUser']").val();
+		if(id!=''){
+			alert(id)
+			var data={
+				id:id,
+			}
+		    $.ajax({
+		        type:'post',
+		        url:'http://127.0.0.1/tp/public/index/user/doDelete',
+		        data:data,
+		        success:function(res){
+		        	console.log(res)
+		        	var re=JSON.parse(res);
+		            console.log(re.msg)
+		        }
+		    })
+		}
+		else{
+			alert(id+'is none')
+		}
+	})
+
+	/* 删除管理员 */
+	$("input[value='delManager']").click(function(){
+		var id=$("input[name='deletemanager']").val();
+		if(id!=''){
+			alert(id)
+			var data={
+				id:id,
+			}
+		    $.ajax({
+		        type:'post',
+		        url:'http://127.0.0.1/tp/public/index/Managercontroller/doDelete',
+		        data:data,
+		        success:function(res){
+		        	console.log(res)
+		        	var re=JSON.parse(res);
+		            console.log(re.msg)
+		        }
+		    })
+		}
+		else{
+			alert(id+'is none')
+		}
+	})
+	// $.ajax({
+ //        type:'post',
+ //        url:'http://127.0.0.1/tp/public/index/User/userList',
+ //        success:function(res){
+ //        	console.log(res)
+ //        	var re=JSON.parse(res);
+ //            console.log(re.msg)
+ //        }
+ //    })
+})
+
+
+
+
+</script>
+
+</body>
+</html>

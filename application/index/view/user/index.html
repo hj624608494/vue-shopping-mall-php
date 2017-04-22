@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+<div id="loginAndRegist">
+	<input type="text" name='email' placeholder="email"><input type="button" value='getCode'>
+	<input type="text" name='code'  placeholder="code">
+	<input type="password"   placeholder="password">
+	<input type="button" name="login" value="login">
+	<input type="button" name="regist" value="regist">
+	<input type="button" name="exit" value="exit">
+</div>
+<hr>
+<hr>
+<input type="password" name="oldPwd" placeholder="oldPwd">
+<input type="password" name="newPwd"  placeholder="newPwd">
+<input type="button" name="btn_modifyPwd" value="modifyPwd">
+<hr>
+<hr>
+<input type="text" name='keyword'>
+<input type="button" value="keyword">
+
+<hr>
+<hr>
+<input type="button" value='test'>
+<input type="button" value="dotest">
+
+<script src="../static/js/jquery-1.12.3.min.js"></script>
+<script>
+
+$(function(){
+
+$("input[value='test']").click(function(){
+	$.ajax({
+		type:'post',
+		url:'http://127.0.0.1/tp/public/index/user/email', 
+		success:function(res){
+			console.log(res)
+		}
+	})
+})
+$("input[value='dotest']").click(function(){
+	$.ajax({
+		type:'post',
+		url:'http://127.0.0.1/tp/public/index/user/gettest', 
+		success:function(res){7
+			console.log(res)
+		}
+	})
+})
+	var currentPage=1;        //默认 当前第一页
+	var num=3;                //默认 每页10条记录
+	var allPage;			  //总共有多少页
+	var data11={
+		num:num,
+		currentPage:currentPage
+	}
+
+	var ul=document.createElement('ul');
+	var li_first=document.createElement('li');
+	var li_next=document.createElement('li');
+	var li_pre=document.createElement('li');
+	var li_last=document.createElement('li');
+
+
+	li_first.setAttribute('style','background:#ddd;margin:0px 10px; cursor:pointer; color:#000;width:80px;height:30px;text-align:center;line-height:30px;float:left;list-style:none')
+	li_next.setAttribute('style','background:#ddd;margin:0px 10px; cursor:pointer;   color:#000;width:80px;height:30px;text-align:center;line-height:30px;float:left;list-style:none')
+	li_pre.setAttribute('style', 'background:#ddd;margin:0px 10px; cursor:pointer;   color:#000;width:80px;height:30px;text-align:center;line-height:30px;float:left;list-style:none')
+	li_last.setAttribute('style','background:#ddd;margin:0px 10px; cursor:pointer;   color:#000;width:80px;height:30px;text-align:center;line-height:30px;float:left;list-style:none')/
+
+	li_first.setAttribute('id','li_first')
+	li_next.setAttribute('id','li_next')
+	li_pre.setAttribute('id','li_pre')
+	li_last.setAttribute('id','li_last')
+
+	ul.appendChild(li_first);
+	ul.appendChild(li_next);
+	ul.appendChild(li_pre);
+	ul.appendChild(li_last);
+
+	li_first.innerHTML='首页';
+	li_next.innerHTML ='下一页';
+	li_pre.innerHTML  ='上一页';
+	li_last.innerHTML ='尾页';
+
+	function dd(a){
+		a.onmouseover=function(){
+			this.style.background='#333';
+			this.style.color='#fff';
+		}
+		a.onmouseout=function(){
+			this.style.background='#ddd';
+			this.style.color='#000';
+		}
+	}
+	dd(li_first)
+	dd(li_next)
+	dd(li_pre)
+	dd(li_last)
+	
+	document.body.appendChild(ul);
+
+	function getGoods(){
+		$.ajax({
+	        type:'post',
+		     url:'http://127.0.0.1/tp/public/index/user/userList', 
+	        data:data11,
+	        success:function(res){
+	        	var re=JSON.parse(res); 
+	        	console.log();
+	        	if(re.acount){
+	        		allPage=Math.ceil(re.acount/num);
+	        		console.log(allPage)
+	        	}
+	            doclick();
+		    }
+		})
+	}
+	getGoods();  
+	var doclick=function(){
+		li_first.onclick=function(){
+			if(data11.currentPage!=1){
+				getGoods();	
+				data11.currentPage=1;
+			}
+		}
+
+		li_next.onclick=function(){
+			if(data11.currentPage<allPage&&data11.currentPage>=1)
+			{
+				data11.currentPage++;
+				getGoods();	
+			}
+		}
+		li_pre.onclick=function(){		
+			if(data11.currentPage<=allPage&&data11.currentPage>1)
+			{
+				data11.currentPage--;
+				getGoods();	
+			}
+		}
+
+		li_last.onclick=function(){
+			if(data11.currentPage!=allPage){
+				getGoods();	
+				data11.currentPage=allPage;
+			}
+		}
+	}
+
+		/*keyword*/
+	// $("input[value='keyword']").click(function(){
+	// 	var data={
+	// 		keyword:$('input[name="keyword"]').val()
+	// 	}
+	//     $.ajax({
+	//         type:'post',
+	//         url:'http://127.0.0.1/tp/public/index/user/userFindInKeyWord',
+	//         data:data,
+	//         success:function(res){
+	//         	console(res)
+	//         	var re=JSON.parse(res);
+	//             console.log(re.data)
+	//             console.log(re.msg)
+	//         }
+	//     })
+	// })
+	/*验证码*/
+	$('input[value="getCode"]').click(function(){
+		 data={
+			email:$('input[name="email"]').val()
+		 }
+		$.ajax({
+	        type:'get',
+	        url:'http://127.0.0.1/tp/public/index/user/email', 
+	        data:data,
+	        success:function(res){
+	        	// var re=JSON.parse(res);
+	            // console.log(re.data)
+	            // console.log(re.msg)
+	        }
+	    })
+	})
+
+
+	/*login*/
+	$("input[name='login']").click(function(){
+		var data={
+			email:$('input[type="text"]').val(),
+			password:$("input[type='password']").val()
+		}
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/user/doLogin',
+	        data:data,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.data)
+	            console.log(re.msg)
+	        }
+	    })
+	})
+	/*regist*/
+	$("input[name='regist']").click(function(){
+		var data={
+			email:$('input[name="email"]').val(),
+			password:$("input[type='password']").val(),
+			code:$('input[name="code"]').val()
+		}
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/user/doRegister',
+	        data:data,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	        	console.log(re);
+	            console.log(re.data)
+	            console.log(re.msg)
+	        }
+	    })
+	})
+	// /*modifyPassword*/
+	// $("input[name='btn_modifyPwd']").click(function(){
+	// 	var data={
+	// 		oldPwd:$("input[name='oldPwd']").val(),
+	// 		newPwd:$("input[name='newPwd']").val()
+	// 	}
+	//     $.ajax({
+	//         type:'post',
+	//         url:'http://127.0.0.1/tp/public/index/user/doModifyPwd',
+	//         data:data,
+	//         success:function(res){
+	//         	var re=JSON.parse(res);
+	//             console.log(re.data)
+	//             console.log(re.msg)
+	//         }
+	//     })
+	// })	
+	// /* 注销 */
+	$("input[name='exit']").click(function(){
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/user/doExit',
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.msg)
+	        }
+	    })
+	})
+
+
+})
+
+
+
+
+</script>
+
+</body>
+</html>

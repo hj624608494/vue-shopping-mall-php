@@ -1,0 +1,2711 @@
+[ 2017-04-20T16:09:48+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.633055s][吞吐率：1.58req/s] [内存消耗：446.49kb] [文件加载：46]
+
+---------------------------------------------------------------
+[ 2017-04-20T16:09:50+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.449119s][吞吐率：2.23req/s] [内存消耗：366.65kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T16:10:10+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.824889s][吞吐率：1.21req/s] [内存消耗：414.77kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T16:10:11+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.245620s][吞吐率：4.07req/s] [内存消耗：366.98kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T16:10:37+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.096746s][吞吐率：10.34req/s] [内存消耗：413.48kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T16:10:38+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.424813s][吞吐率：2.35req/s] [内存消耗：366.98kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T16:11:23+08:00 ] 192.168.1.122 192.168.1.122 GET /wochuang/public/
+[ log ] 192.168.1.122/wochuang/public/ [运行时间：0.119891s][吞吐率：8.34req/s] [内存消耗：413.48kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T16:11:24+08:00 ] 192.168.1.122 192.168.1.122 GET /wochuang/public/undefined
+[ log ] 192.168.1.122/wochuang/public/undefined [运行时间：0.246057s][吞吐率：4.06req/s] [内存消耗：366.99kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T16:14:23+08:00 ] 192.168.1.122 192.168.1.122 GET /wochuang/public/
+[ log ] 192.168.1.122/wochuang/public/ [运行时间：0.247729s][吞吐率：4.04req/s] [内存消耗：413.48kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T16:14:24+08:00 ] 192.168.1.122 192.168.1.122 GET /wochuang/public/undefined
+[ log ] 192.168.1.122/wochuang/public/undefined [运行时间：0.282166s][吞吐率：3.54req/s] [内存消耗：366.99kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T16:16:02+08:00 ] 192.168.1.122 192.168.1.122 GET /wochuang/public/
+[ log ] 192.168.1.122/wochuang/public/ [运行时间：0.200031s][吞吐率：5.00req/s] [内存消耗：413.48kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T16:16:03+08:00 ] 192.168.1.122 192.168.1.122 GET /wochuang/public/undefined
+[ log ] 192.168.1.122/wochuang/public/undefined [运行时间：0.253891s][吞吐率：3.94req/s] [内存消耗：366.99kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T16:16:24+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.269934s][吞吐率：3.70req/s] [内存消耗：413.49kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T16:16:24+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.216154s][吞吐率：4.63req/s] [内存消耗：366.98kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:22:56+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.236561s][吞吐率：4.23req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:22:59+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.756801s][吞吐率：1.32req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:23:12+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.150788s][吞吐率：6.63req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:23:13+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.084246s][吞吐率：11.87req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:23:13+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/Classifycontroller/getClassify [运行时间：0.186931s][吞吐率：5.35req/s] [内存消耗：367.52kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:23:13+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/Salecontroller/getSale [运行时间：0.196504s][吞吐率：5.09req/s] [内存消耗：367.49kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:23:13+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/Slide/getSliderBottom [运行时间：0.246126s][吞吐率：4.06req/s] [内存消耗：367.47kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:23:13+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/Slide/getSliderCenter [运行时间：0.345978s][吞吐率：2.89req/s] [内存消耗：367.47kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:23:13+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/Goodscontroller/getGoods [运行时间：0.128344s][吞吐率：7.79req/s] [内存消耗：367.48kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:23:14+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/Slide/getSlider [运行时间：1.020422s][吞吐率：0.98req/s] [内存消耗：367.43kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:24:30+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.168015s][吞吐率：5.95req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:24:31+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.238162s][吞吐率：4.20req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:24:32+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：1.134222s][吞吐率：0.88req/s] [内存消耗：762.27kb] [文件加载：48]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\thinkphp\library\think\db\Connection.php:287]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:24:32+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：1.142423s][吞吐率：0.88req/s] [内存消耗：728.88kb] [文件加载：48]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\thinkphp\library\think\db\Connection.php:287]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:24:32+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：1.122143s][吞吐率：0.89req/s] [内存消耗：749.30kb] [文件加载：48]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\thinkphp\library\think\db\Connection.php:287]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:24:32+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：1.092602s][吞吐率：0.92req/s] [内存消耗：1,720.04kb] [文件加载：48]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\thinkphp\library\think\db\Connection.php:287]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:24:32+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：1.341425s][吞吐率：0.75req/s] [内存消耗：1,020.48kb] [文件加载：46]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\thinkphp\library\think\db\Connection.php:287]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:24:33+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：1.483932s][吞吐率：0.67req/s] [内存消耗：839.39kb] [文件加载：48]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\thinkphp\library\think\db\Connection.php:287]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:26:23+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.123245s][吞吐率：8.11req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:26:23+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.355030s][吞吐率：2.82req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:26:24+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.671129s][吞吐率：1.49req/s] [内存消耗：568.38kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:26:24+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.425714s][吞吐率：2.35req/s] [内存消耗：991.53kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:26:24+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：1.036443s][吞吐率：0.96req/s] [内存消耗：568.44kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:26:24+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：1.054148s][吞吐率：0.95req/s] [内存消耗：567.89kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:26:24+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：1.039925s][吞吐率：0.96req/s] [内存消耗：512.28kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:26+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.153028s][吞吐率：6.53req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:27+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.201063s][吞吐率：4.97req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:28+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.309764s][吞吐率：3.23req/s] [内存消耗：572.59kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:29+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：1.107900s][吞吐率：0.90req/s] [内存消耗：568.40kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:29+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：1.900270s][吞吐率：0.53req/s] [内存消耗：567.26kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:29+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：1.888628s][吞吐率：0.53req/s] [内存消耗：512.28kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:30+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：1.442107s][吞吐率：0.69req/s] [内存消耗：565.82kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:30+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：2.034117s][吞吐率：0.49req/s] [内存消耗：568.44kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:41+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsByClass
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsByClass [运行时间：0.233495s][吞吐率：4.28req/s] [内存消耗：571.91kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:42+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyById
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyById [运行时间：0.424599s][吞吐率：2.36req/s] [内存消耗：567.03kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.271470s][吞吐率：3.68req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.410828s][吞吐率：2.43req/s] [内存消耗：565.82kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.474277s][吞吐率：2.11req/s] [内存消耗：568.40kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.489775s][吞吐率：2.04req/s] [内存消耗：568.44kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.479012s][吞吐率：2.09req/s] [内存消耗：512.28kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.511614s][吞吐率：1.95req/s] [内存消耗：567.26kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:45+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.304330s][吞吐率：3.29req/s] [内存消耗：572.59kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:46+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsByClass
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsByClass [运行时间：0.186321s][吞吐率：5.37req/s] [内存消耗：571.91kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:27:46+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyById
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyById [运行时间：0.193921s][吞吐率：5.16req/s] [内存消耗：567.05kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:30:12+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin/
+[ log ] 127.0.0.1/wochuang/public/index/admin/ [运行时间：0.307921s][吞吐率：3.25req/s] [内存消耗：445.73kb] [文件加载：46]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:31:33+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.092786s][吞吐率：10.78req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:31:47+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.180523s][吞吐率：5.54req/s] [内存消耗：413.82kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:31:51+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.093690s][吞吐率：10.67req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:40:59+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsByClass
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsByClass [运行时间：0.279023s][吞吐率：3.58req/s] [内存消耗：571.91kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:40:59+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyById
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyById [运行时间：0.257989s][吞吐率：3.88req/s] [内存消耗：567.05kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:02+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.134377s][吞吐率：7.44req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:16+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsByClass
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsByClass [运行时间：0.183431s][吞吐率：5.45req/s] [内存消耗：571.91kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:16+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyById
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyById [运行时间：0.126331s][吞吐率：7.92req/s] [内存消耗：567.05kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:17+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.249218s][吞吐率：4.01req/s] [内存消耗：568.40kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:17+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.323547s][吞吐率：3.09req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:17+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.340369s][吞吐率：2.94req/s] [内存消耗：568.44kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:17+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.265829s][吞吐率：3.76req/s] [内存消耗：512.28kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:17+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.347046s][吞吐率：2.88req/s] [内存消耗：567.26kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:17+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.310435s][吞吐率：3.22req/s] [内存消耗：565.82kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:18+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.125349s][吞吐率：7.98req/s] [内存消耗：572.59kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:19+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.146207s][吞吐率：6.84req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:21+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.201558s][吞吐率：4.96req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:22+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.292162s][吞吐率：3.42req/s] [内存消耗：568.44kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:22+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.291632s][吞吐率：3.43req/s] [内存消耗：568.40kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:22+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.309485s][吞吐率：3.23req/s] [内存消耗：567.26kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:22+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.326185s][吞吐率：3.07req/s] [内存消耗：565.82kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:22+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.297376s][吞吐率：3.36req/s] [内存消耗：512.28kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:22+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.260343s][吞吐率：3.84req/s] [内存消耗：572.59kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:41:45+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.154257s][吞吐率：6.48req/s] [内存消耗：412.55kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:49:12+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.094514s][吞吐率：10.58req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:49:13+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.298535s][吞吐率：3.35req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:49:13+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.334325s][吞吐率：2.99req/s] [内存消耗：512.28kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:49:13+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.431814s][吞吐率：2.32req/s] [内存消耗：565.82kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:49:13+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.486525s][吞吐率：2.06req/s] [内存消耗：567.26kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:49:13+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.529526s][吞吐率：1.89req/s] [内存消耗：568.40kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:49:13+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.270955s][吞吐率：3.69req/s] [内存消耗：572.59kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:49:13+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.566929s][吞吐率：1.76req/s] [内存消耗：568.44kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:49:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.096594s][吞吐率：10.35req/s] [内存消耗：412.55kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:53:07+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.103014s][吞吐率：9.71req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:53:07+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.268671s][吞吐率：3.72req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:53:08+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.338076s][吞吐率：2.96req/s] [内存消耗：568.40kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:53:08+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.457217s][吞吐率：2.19req/s] [内存消耗：568.44kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:53:08+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.478447s][吞吐率：2.09req/s] [内存消耗：512.28kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:53:08+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.519955s][吞吐率：1.92req/s] [内存消耗：565.82kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:53:08+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.573481s][吞吐率：1.74req/s] [内存消耗：567.26kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:53:08+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.439512s][吞吐率：2.28req/s] [内存消耗：572.59kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:53:22+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.119068s][吞吐率：8.40req/s] [内存消耗：412.55kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:54:56+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.117500s][吞吐率：8.51req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:54:57+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.317757s][吞吐率：3.15req/s] [内存消耗：567.26kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:54:57+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.493123s][吞吐率：2.03req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:54:57+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.484212s][吞吐率：2.07req/s] [内存消耗：512.28kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:54:57+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.556324s][吞吐率：1.80req/s] [内存消耗：568.44kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:54:57+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.547542s][吞吐率：1.83req/s] [内存消耗：568.40kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:54:57+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.371632s][吞吐率：2.69req/s] [内存消耗：572.59kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:54:57+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.728792s][吞吐率：1.37req/s] [内存消耗：565.82kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:55:06+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.293695s][吞吐率：3.40req/s] [内存消耗：444.91kb] [文件加载：46]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:55:06+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/wochuang/public/index/admin/login
+[ log ] 127.0.0.1/wochuang/public/index/wochuang/public/index/admin/login [运行时间：0.107072s][吞吐率：9.34req/s] [内存消耗：368.50kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:55:38+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.098676s][吞吐率：10.13req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:55:39+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.343280s][吞吐率：2.91req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:55:39+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.394285s][吞吐率：2.54req/s] [内存消耗：565.82kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:55:39+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.410471s][吞吐率：2.44req/s] [内存消耗：568.44kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:55:39+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.401055s][吞吐率：2.49req/s] [内存消耗：512.28kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:55:39+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.416136s][吞吐率：2.40req/s] [内存消耗：568.40kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:55:39+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.470398s][吞吐率：2.13req/s] [内存消耗：567.26kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:55:39+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.299401s][吞吐率：3.34req/s] [内存消耗：572.59kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:55:42+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.116156s][吞吐率：8.61req/s] [内存消耗：444.56kb] [文件加载：46]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:55:42+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.089787s][吞吐率：11.14req/s] [内存消耗：413.83kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:56:30+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin/login
+[ log ] 127.0.0.1/wochuang/public/index/admin/login [运行时间：0.134712s][吞吐率：7.42req/s] [内存消耗：452.58kb] [文件加载：46]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:57:21+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin/login
+[ log ] 127.0.0.1/wochuang/public/index/admin/login [运行时间：0.155248s][吞吐率：6.44req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:57:26+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.107518s][吞吐率：9.30req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:57:27+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.265377s][吞吐率：3.77req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:57:27+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.487197s][吞吐率：2.05req/s] [内存消耗：567.26kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:57:27+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.513031s][吞吐率：1.95req/s] [内存消耗：568.44kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:57:27+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.315975s][吞吐率：3.16req/s] [内存消耗：572.59kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:57:27+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.479075s][吞吐率：2.09req/s] [内存消耗：565.82kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:57:27+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.504733s][吞吐率：1.98req/s] [内存消耗：512.28kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:57:27+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.584076s][吞吐率：1.71req/s] [内存消耗：568.40kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:57:30+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.107697s][吞吐率：9.29req/s] [内存消耗：444.57kb] [文件加载：46]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:57:30+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin/login
+[ log ] 127.0.0.1/wochuang/public/index/admin/login [运行时间：0.091003s][吞吐率：10.99req/s] [内存消耗：412.48kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:57:30+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.106344s][吞吐率：9.40req/s] [内存消耗：413.84kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T17:57:31+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin/login
+[ log ] 127.0.0.1/wochuang/public/index/admin/login [运行时间：0.105901s][吞吐率：9.44req/s] [内存消耗：412.80kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:00:22+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.099714s][吞吐率：10.03req/s] [内存消耗：413.69kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:00:22+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.296179s][吞吐率：3.38req/s] [内存消耗：567.26kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:00:22+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.388189s][吞吐率：2.58req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:00:22+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.396650s][吞吐率：2.52req/s] [内存消耗：568.44kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:00:22+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.334017s][吞吐率：2.99req/s] [内存消耗：512.28kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:00:22+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.456932s][吞吐率：2.19req/s] [内存消耗：568.40kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:00:22+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.522809s][吞吐率：1.91req/s] [内存消耗：565.82kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:00:23+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.344322s][吞吐率：2.90req/s] [内存消耗：572.59kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:00:30+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.302907s][吞吐率：3.30req/s] [内存消耗：413.50kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:00:30+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin/login
+[ log ] 127.0.0.1/wochuang/public/index/admin/login [运行时间：0.092886s][吞吐率：10.77req/s] [内存消耗：452.57kb] [文件加载：46]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:00:32+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.103461s][吞吐率：9.67req/s] [内存消耗：412.55kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:00:33+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin/login
+[ log ] 127.0.0.1/wochuang/public/index/admin/login [运行时间：0.241258s][吞吐率：4.14req/s] [内存消耗：414.08kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:00:38+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Managercontroller/doLogin
+[ log ] 127.0.0.1/wochuang/public/index/Managercontroller/doLogin [运行时间：0.241977s][吞吐率：4.13req/s] [内存消耗：580.26kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:00:38+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.115240s][吞吐率：8.68req/s] [内存消耗：412.77kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:01:13+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Managercontroller/managerList
+[ log ] 127.0.0.1/wochuang/public/index/Managercontroller/managerList [运行时间：0.147060s][吞吐率：6.80req/s] [内存消耗：575.48kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:01:16+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.110923s][吞吐率：9.02req/s] [内存消耗：573.32kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:01:17+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.116587s][吞吐率：8.58req/s] [内存消耗：571.27kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:01:17+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.113704s][吞吐率：8.79req/s] [内存消耗：572.58kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:01:18+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.152098s][吞吐率：6.57req/s] [内存消耗：573.43kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:01:20+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/getMSOrderList
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/getMSOrderList [运行时间：0.264940s][吞吐率：3.77req/s] [内存消耗：581.05kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:01:21+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.113028s][吞吐率：8.85req/s] [内存消耗：573.43kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:01:35+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Salecontroller/getSaleList
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSaleList [运行时间：0.145928s][吞吐率：6.85req/s] [内存消耗：514.77kb] [文件加载：46]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:01:35+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.104255s][吞吐率：9.59req/s] [内存消耗：572.58kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:01:35+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.105081s][吞吐率：9.52req/s] [内存消耗：573.43kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:01:43+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.127381s][吞吐率：7.85req/s] [内存消耗：571.27kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:02:32+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/goodscontroller/doUploadImg
+[ log ] 127.0.0.1/wochuang/public/index/goodscontroller/doUploadImg [运行时间：0.087036s][吞吐率：11.49req/s] [内存消耗：377.44kb] [文件加载：38]
+
+---------------------------------------------------------------
+[ 2017-04-20T18:59:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.114738s][吞吐率：8.72req/s] [内存消耗：412.03kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:00:01+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Managercontroller/managerList
+[ log ] 127.0.0.1/wochuang/public/index/Managercontroller/managerList [运行时间：0.222718s][吞吐率：4.49req/s] [内存消耗：575.01kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:00:07+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/userList
+[ log ] 127.0.0.1/wochuang/public/index/user/userList [运行时间：0.228062s][吞吐率：4.38req/s] [内存消耗：597.40kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:00:08+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.131949s][吞吐率：7.58req/s] [内存消耗：572.85kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:00:09+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.131961s][吞吐率：7.58req/s] [内存消耗：570.79kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:00:10+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Salecontroller/getSaleList
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSaleList [运行时间：0.131835s][吞吐率：7.59req/s] [内存消耗：514.30kb] [文件加载：46]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:00:15+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.136774s][吞吐率：7.31req/s] [内存消耗：572.11kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:00:18+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.157109s][吞吐率：6.37req/s] [内存消耗：572.95kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:00:20+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/getMSOrderList
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/getMSOrderList [运行时间：0.132993s][吞吐率：7.52req/s] [内存消耗：578.52kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:00:23+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Managercontroller/managerList
+[ log ] 127.0.0.1/wochuang/public/index/Managercontroller/managerList [运行时间：0.122147s][吞吐率：8.19req/s] [内存消耗：575.01kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:00:45+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.121335s][吞吐率：8.24req/s] [内存消耗：572.85kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:01:28+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.126622s][吞吐率：7.90req/s] [内存消耗：572.11kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:01:30+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.139415s][吞吐率：7.17req/s] [内存消耗：572.95kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:01:32+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.191840s][吞吐率：5.21req/s] [内存消耗：570.79kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:01:39+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.137549s][吞吐率：7.27req/s] [内存消耗：572.95kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:03:16+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.124577s][吞吐率：8.03req/s] [内存消耗：571.09kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:10:04+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/goodscontroller/doUploadImg
+[ log ] 127.0.0.1/wochuang/public/index/goodscontroller/doUploadImg [运行时间：0.119845s][吞吐率：8.34req/s] [内存消耗：377.27kb] [文件加载：38]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:17:27+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.151257s][吞吐率：6.61req/s] [内存消耗：414.27kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:17:28+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.192327s][吞吐率：5.20req/s] [内存消耗：571.09kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:17:35+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/goodscontroller/doUploadImg
+[ log ] 127.0.0.1/wochuang/public/index/goodscontroller/doUploadImg [运行时间：0.124155s][吞吐率：8.05req/s] [内存消耗：377.27kb] [文件加载：38]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:21:23+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.169548s][吞吐率：5.90req/s] [内存消耗：414.27kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:21:24+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.421133s][吞吐率：2.37req/s] [内存消耗：571.09kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:21:29+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/goodscontroller/doUploadImg
+[ log ] 127.0.0.1/wochuang/public/index/goodscontroller/doUploadImg [运行时间：0.106693s][吞吐率：9.37req/s] [内存消耗：377.27kb] [文件加载：38]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:23:26+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.228889s][吞吐率：4.37req/s] [内存消耗：414.27kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:23:27+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.370751s][吞吐率：2.70req/s] [内存消耗：571.09kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:23:32+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/goodscontroller/doUploadImg
+[ log ] 127.0.0.1/wochuang/public/index/goodscontroller/doUploadImg [运行时间：0.116678s][吞吐率：8.57req/s] [内存消耗：377.26kb] [文件加载：38]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:24:29+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/goodscontroller/addGoods
+[ log ] 127.0.0.1/wochuang/public/index/goodscontroller/addGoods [运行时间：0.271246s][吞吐率：3.69req/s] [内存消耗：1,096.60kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:24:55+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.239096s][吞吐率：4.18req/s] [内存消耗：573.44kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:24:57+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.105887s][吞吐率：9.44req/s] [内存消耗：412.36kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:24:58+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.328466s][吞吐率：3.04req/s] [内存消耗：573.44kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:24:59+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.202731s][吞吐率：4.93req/s] [内存消耗：571.09kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:25:00+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsById
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsById [运行时间：0.185331s][吞吐率：5.40req/s] [内存消耗：579.02kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:28:41+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.215193s][吞吐率：4.65req/s] [内存消耗：571.09kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:28:45+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.189955s][吞吐率：5.26req/s] [内存消耗：573.44kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:28:57+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Managercontroller/managerList
+[ log ] 127.0.0.1/wochuang/public/index/Managercontroller/managerList [运行时间：0.148864s][吞吐率：6.72req/s] [内存消耗：575.29kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:28:58+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/userList
+[ log ] 127.0.0.1/wochuang/public/index/user/userList [运行时间：0.226507s][吞吐率：4.41req/s] [内存消耗：595.65kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:29:00+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Managercontroller/managerList
+[ log ] 127.0.0.1/wochuang/public/index/Managercontroller/managerList [运行时间：0.138002s][吞吐率：7.25req/s] [内存消耗：575.29kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:29:00+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/userList
+[ log ] 127.0.0.1/wochuang/public/index/user/userList [运行时间：0.135095s][吞吐率：7.40req/s] [内存消耗：595.65kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:29:02+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.136504s][吞吐率：7.33req/s] [内存消耗：573.15kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:29:02+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.148959s][吞吐率：6.71req/s] [内存消耗：571.09kb] [文件加载：48]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:29:43+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.096294s][吞吐率：10.38req/s] [内存消耗：412.03kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:29:50+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：1.040544s][吞吐率：0.96req/s] [内存消耗：445.59kb] [文件加载：46]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:40:19+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.244457s][吞吐率：4.09req/s] [内存消耗：413.78kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T19:48:10+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.131645s][吞吐率：7.60req/s] [内存消耗：412.49kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:02:40+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.109413s][吞吐率：9.14req/s] [内存消耗：412.49kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:02:46+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Managercontroller/doLogin
+[ log ] 127.0.0.1/wochuang/public/index/Managercontroller/doLogin [运行时间：0.183097s][吞吐率：5.46req/s] [内存消耗：570.26kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:02:52+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Managercontroller/doLogin
+[ log ] 127.0.0.1/wochuang/public/index/Managercontroller/doLogin [运行时间：0.189151s][吞吐率：5.29req/s] [内存消耗：572.34kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:02:54+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/countPayType
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/countPayType [运行时间：0.369643s][吞吐率：2.71req/s] [内存消耗：571.57kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:02:54+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/countOrderStatu
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/countOrderStatu [运行时间：0.405762s][吞吐率：2.46req/s] [内存消耗：571.70kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:02:54+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/countRegister
+[ log ] 127.0.0.1/wochuang/public/index/user/countRegister [运行时间：0.478047s][吞吐率：2.09req/s] [内存消耗：508.84kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:03:12+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Managercontroller/managerList
+[ log ] 127.0.0.1/wochuang/public/index/Managercontroller/managerList [运行时间：0.158012s][吞吐率：6.33req/s] [内存消耗：569.58kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:03:17+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/userList
+[ log ] 127.0.0.1/wochuang/public/index/user/userList [运行时间：0.195896s][吞吐率：5.10req/s] [内存消耗：590.36kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:03:19+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.169514s][吞吐率：5.90req/s] [内存消耗：573.06kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:03:20+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.205735s][吞吐率：4.86req/s] [内存消耗：568.15kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:03:22+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.141863s][吞吐率：7.05req/s] [内存消耗：573.06kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:03:23+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Salecontroller/getSaleList
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSaleList [运行时间：0.174479s][吞吐率：5.73req/s] [内存消耗：509.29kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:03:25+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.174747s][吞吐率：5.72req/s] [内存消耗：566.71kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:03:26+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.233496s][吞吐率：4.28req/s] [内存消耗：568.15kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:03:28+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/getMSOrderList
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/getMSOrderList [运行时间：0.149617s][吞吐率：6.68req/s] [内存消耗：573.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:03:53+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.213479s][吞吐率：4.68req/s] [内存消耗：568.15kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:03:59+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.313661s][吞吐率：3.19req/s] [内存消耗：566.71kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:03:59+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsById
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsById [运行时间：0.326971s][吞吐率：3.06req/s] [内存消耗：573.74kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:07:21+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.318942s][吞吐率：3.14req/s] [内存消耗：568.15kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:07:23+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.192839s][吞吐率：5.19req/s] [内存消耗：566.71kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:23:06+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.311482s][吞吐率：3.21req/s] [内存消耗：412.59kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:23:09+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：1.079163s][吞吐率：0.93req/s] [内存消耗：566.71kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:23:23+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/goodscontroller/doUploadImg
+[ log ] 127.0.0.1/wochuang/public/index/goodscontroller/doUploadImg [运行时间：0.097717s][吞吐率：10.23req/s] [内存消耗：377.42kb] [文件加载：38]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:24:34+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.121567s][吞吐率：8.23req/s] [内存消耗：412.59kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:24:35+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.540541s][吞吐率：1.85req/s] [内存消耗：566.71kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:25:02+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.186838s][吞吐率：5.35req/s] [内存消耗：412.59kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:25:05+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.283103s][吞吐率：3.53req/s] [内存消耗：412.59kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:25:06+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.204411s][吞吐率：4.89req/s] [内存消耗：412.59kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:26:59+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.188945s][吞吐率：5.29req/s] [内存消耗：412.59kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:27:08+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.105763s][吞吐率：9.46req/s] [内存消耗：412.26kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:27:31+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Managercontroller/doLogin
+[ log ] 127.0.0.1/wochuang/public/index/Managercontroller/doLogin [运行时间：0.312422s][吞吐率：3.20req/s] [内存消耗：571.95kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:27:33+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/countOrderStatu
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/countOrderStatu [运行时间：0.359753s][吞吐率：2.78req/s] [内存消耗：571.41kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:27:33+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/countPayType
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/countPayType [运行时间：0.466954s][吞吐率：2.14req/s] [内存消耗：571.27kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:27:34+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/countRegister
+[ log ] 127.0.0.1/wochuang/public/index/user/countRegister [运行时间：0.566242s][吞吐率：1.77req/s] [内存消耗：508.55kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:27:40+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Managercontroller/managerList
+[ log ] 127.0.0.1/wochuang/public/index/Managercontroller/managerList [运行时间：0.208173s][吞吐率：4.80req/s] [内存消耗：569.58kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:27:41+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/userList
+[ log ] 127.0.0.1/wochuang/public/index/user/userList [运行时间：0.202083s][吞吐率：4.95req/s] [内存消耗：590.36kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:27:44+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.325663s][吞吐率：3.07req/s] [内存消耗：568.15kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:27:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public//uploads/images/goods/20170420/149268741258f89a34d560b.png
+[ log ] 127.0.0.1/wochuang/public//uploads/images/goods/20170420/149268741258f89a34d560b.png [运行时间：0.309516s][吞吐率：3.23req/s] [内存消耗：367.98kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:27:49+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/goodscontroller/delGoods
+[ log ] 127.0.0.1/wochuang/public/index/goodscontroller/delGoods [运行时间：0.307750s][吞吐率：3.25req/s] [内存消耗：611.66kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:27:57+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public//uploads/images/goods/20170420/149268741258f89a34d560b.png
+[ log ] 127.0.0.1/wochuang/public//uploads/images/goods/20170420/149268741258f89a34d560b.png [运行时间：0.148516s][吞吐率：6.73req/s] [内存消耗：367.46kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:27:59+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.116660s][吞吐率：8.57req/s] [内存消耗：412.59kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:28:00+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.556261s][吞吐率：1.80req/s] [内存消耗：567.95kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:28:08+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.187581s][吞吐率：5.33req/s] [内存消耗：568.78kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:29:03+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/doUploadImg
+[ log ] 127.0.0.1/wochuang/public/index/Slide/doUploadImg [运行时间：0.310151s][吞吐率：3.22req/s] [内存消耗：376.50kb] [文件加载：38]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:29:12+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/addSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/addSlider [运行时间：0.350685s][吞吐率：2.85req/s] [内存消耗：567.56kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:29:12+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.267245s][吞吐率：3.74req/s] [内存消耗：569.28kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:29:20+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/modifySlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/modifySlider [运行时间：0.214753s][吞吐率：4.66req/s] [内存消耗：569.10kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:29:20+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.209202s][吞吐率：4.78req/s] [内存消耗：569.28kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:29:58+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.129099s][吞吐率：7.75req/s] [内存消耗：412.45kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:30:13+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.347452s][吞吐率：2.88req/s] [内存消耗：413.53kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:30:14+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.351888s][吞吐率：2.84req/s] [内存消耗：512.20kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:30:14+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.406463s][吞吐率：2.46req/s] [内存消耗：565.71kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:30:14+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.471612s][吞吐率：2.12req/s] [内存消耗：567.17kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:30:15+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.364984s][吞吐率：2.74req/s] [内存消耗：572.51kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:30:15+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.981893s][吞吐率：1.02req/s] [内存消耗：367.07kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:30:15+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：1.039797s][吞吐率：0.96req/s] [内存消耗：568.31kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:30:15+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：1.068827s][吞吐率：0.94req/s] [内存消耗：568.89kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:34:55+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.175832s][吞吐率：5.69req/s] [内存消耗：413.74kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:34:56+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.366479s][吞吐率：2.73req/s] [内存消耗：512.36kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:34:56+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.614554s][吞吐率：1.63req/s] [内存消耗：367.25kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:34:56+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.551443s][吞吐率：1.81req/s] [内存消耗：567.33kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:34:56+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.507641s][吞吐率：1.97req/s] [内存消耗：565.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:34:56+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.722747s][吞吐率：1.38req/s] [内存消耗：569.03kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:34:56+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.759418s][吞吐率：1.32req/s] [内存消耗：568.47kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:34:56+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.498464s][吞吐率：2.01req/s] [内存消耗：572.66kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:02+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.139459s][吞吐率：7.17req/s] [内存消耗：413.53kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:02+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.379383s][吞吐率：2.64req/s] [内存消耗：367.07kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:02+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.567527s][吞吐率：1.76req/s] [内存消耗：565.71kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:02+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.613842s][吞吐率：1.63req/s] [内存消耗：568.31kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:02+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.584404s][吞吐率：1.71req/s] [内存消耗：512.20kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:02+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.680589s][吞吐率：1.47req/s] [内存消耗：567.17kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:02+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.679323s][吞吐率：1.47req/s] [内存消耗：568.89kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:03+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.371146s][吞吐率：2.69req/s] [内存消耗：572.51kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:53+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.135551s][吞吐率：7.38req/s] [内存消耗：413.74kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:53+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.555158s][吞吐率：1.80req/s] [内存消耗：367.25kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:54+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.605105s][吞吐率：1.65req/s] [内存消耗：569.03kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:54+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.758991s][吞吐率：1.32req/s] [内存消耗：567.33kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:54+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.642988s][吞吐率：1.56req/s] [内存消耗：512.36kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:54+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.720697s][吞吐率：1.39req/s] [内存消耗：568.47kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:54+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.786494s][吞吐率：1.27req/s] [内存消耗：565.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:35:54+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.457308s][吞吐率：2.19req/s] [内存消耗：572.66kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:36:04+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/admin
+[ log ] 127.0.0.1/wochuang/public/index/admin [运行时间：0.166239s][吞吐率：6.02req/s] [内存消耗：412.45kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:36:34+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.114114s][吞吐率：8.76req/s] [内存消耗：413.53kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:36:34+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.297730s][吞吐率：3.36req/s] [内存消耗：367.07kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:36:35+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.566909s][吞吐率：1.76req/s] [内存消耗：567.17kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:36:35+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.547825s][吞吐率：1.83req/s] [内存消耗：512.20kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:36:35+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.561118s][吞吐率：1.78req/s] [内存消耗：568.31kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:36:35+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.600778s][吞吐率：1.66req/s] [内存消耗：568.89kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:36:35+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.550443s][吞吐率：1.82req/s] [内存消耗：565.71kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:36:35+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.528292s][吞吐率：1.89req/s] [内存消耗：572.51kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:04+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.114652s][吞吐率：8.72req/s] [内存消耗：413.74kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:05+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.237939s][吞吐率：4.20req/s] [内存消耗：367.25kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:05+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.503087s][吞吐率：1.99req/s] [内存消耗：512.36kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:05+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.633354s][吞吐率：1.58req/s] [内存消耗：567.33kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:05+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.538468s][吞吐率：1.86req/s] [内存消耗：572.66kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:05+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.669021s][吞吐率：1.49req/s] [内存消耗：569.03kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:05+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.683648s][吞吐率：1.46req/s] [内存消耗：568.47kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:05+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.716935s][吞吐率：1.39req/s] [内存消耗：565.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.089339s][吞吐率：11.19req/s] [内存消耗：367.16kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:39+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.121032s][吞吐率：8.26req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:40+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.519430s][吞吐率：1.93req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:40+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.591288s][吞吐率：1.69req/s] [内存消耗：569.17kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:40+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.685377s][吞吐率：1.46req/s] [内存消耗：567.48kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:40+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.684785s][吞吐率：1.46req/s] [内存消耗：568.62kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:40+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.635743s][吞吐率：1.57req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:41+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.668856s][吞吐率：1.50req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:41+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.693661s][吞吐率：1.44req/s] [内存消耗：572.80kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:38:59+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.151053s][吞吐率：6.62req/s] [内存消耗：572.34kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:40:02+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.225922s][吞吐率：4.43req/s] [内存消耗：567.95kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:40:08+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/getMSOrderList
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/getMSOrderList [运行时间：0.250412s][吞吐率：3.99req/s] [内存消耗：573.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:40:12+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.199802s][吞吐率：5.00req/s] [内存消耗：573.06kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:40:16+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Salecontroller/getSaleList
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSaleList [运行时间：0.182927s][吞吐率：5.47req/s] [内存消耗：509.29kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:40:19+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.175341s][吞吐率：5.70req/s] [内存消耗：566.71kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:40:26+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.249554s][吞吐率：4.01req/s] [内存消耗：569.28kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:41:10+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.211435s][吞吐率：4.73req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:41:11+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.783653s][吞吐率：1.28req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:41:11+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.628474s][吞吐率：1.59req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:41:11+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.850950s][吞吐率：1.18req/s] [内存消耗：569.17kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:41:11+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.907955s][吞吐率：1.10req/s] [内存消耗：567.48kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:41:11+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.993913s][吞吐率：1.01req/s] [内存消耗：568.62kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:41:11+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.814858s][吞吐率：1.23req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:41:12+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.506346s][吞吐率：1.97req/s] [内存消耗：572.80kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:40+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.167586s][吞吐率：5.97req/s] [内存消耗：572.34kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.133127s][吞吐率：7.51req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.131433s][吞吐率：7.61req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.133133s][吞吐率：7.51req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:45+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.144937s][吞吐率：6.90req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:45+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.134781s][吞吐率：7.42req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:45+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.141482s][吞吐率：7.07req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:45+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.136004s][吞吐率：7.35req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:46+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.225399s][吞吐率：4.44req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:46+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.405200s][吞吐率：2.47req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:46+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.207807s][吞吐率：4.81req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:46+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.445630s][吞吐率：2.24req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:47+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.129439s][吞吐率：7.73req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:47+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.156229s][吞吐率：6.40req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:48+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.142130s][吞吐率：7.04req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:48+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.161503s][吞吐率：6.19req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:48+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.145689s][吞吐率：6.86req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:48+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.172182s][吞吐率：5.81req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:49+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.155714s][吞吐率：6.42req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:43:49+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.154127s][吞吐率：6.49req/s] [内存消耗：572.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:44:05+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.249338s][吞吐率：4.01req/s] [内存消耗：567.95kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:44:13+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.175761s][吞吐率：5.69req/s] [内存消耗：573.06kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:44:27+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.229983s][吞吐率：4.35req/s] [内存消耗：567.95kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:44:31+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsById
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsById [运行时间：0.325192s][吞吐率：3.08req/s] [内存消耗：574.16kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:44:31+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.356924s][吞吐率：2.80req/s] [内存消耗：566.71kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:44:50+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/goodscontroller/modifyGoods
+[ log ] 127.0.0.1/wochuang/public/index/goodscontroller/modifyGoods [运行时间：0.127371s][吞吐率：7.85req/s] [内存消耗：576.34kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:44:51+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.280442s][吞吐率：3.57req/s] [内存消耗：567.94kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:44:53+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.167199s][吞吐率：5.98req/s] [内存消耗：569.59kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:45:08+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.337259s][吞吐率：2.97req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:45:09+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.622710s][吞吐率：1.61req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:45:09+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.556143s][吞吐率：1.80req/s] [内存消耗：569.17kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:45:09+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.667292s][吞吐率：1.50req/s] [内存消耗：567.48kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:45:09+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.606510s][吞吐率：1.65req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:45:09+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.636492s][吞吐率：1.57req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:45:10+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.473002s][吞吐率：2.11req/s] [内存消耗：574.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:45:10+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：1.061787s][吞吐率：0.94req/s] [内存消耗：568.62kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:48:29+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.297126s][吞吐率：3.37req/s] [内存消耗：569.28kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:48:33+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.146125s][吞吐率：6.84req/s] [内存消耗：587.44kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:48:48+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/modifySlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/modifySlider [运行时间：0.196576s][吞吐率：5.09req/s] [内存消耗：568.98kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:48:48+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.312751s][吞吐率：3.20req/s] [内存消耗：568.79kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:48:52+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.333712s][吞吐率：3.00req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:48:53+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.507155s][吞吐率：1.97req/s] [内存消耗：569.14kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:48:53+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.510333s][吞吐率：1.96req/s] [内存消耗：567.48kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:48:53+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.723553s][吞吐率：1.38req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:48:53+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.889875s][吞吐率：1.12req/s] [内存消耗：568.62kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:48:53+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.530293s][吞吐率：1.89req/s] [内存消耗：574.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:48:53+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.927103s][吞吐率：1.08req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:48:53+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.944027s][吞吐率：1.06req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:50:53+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsByClass
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsByClass [运行时间：0.226905s][吞吐率：4.41req/s] [内存消耗：572.11kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:50:53+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyById
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyById [运行时间：0.271939s][吞吐率：3.68req/s] [内存消耗：567.25kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:50:58+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.106861s][吞吐率：9.36req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:50:59+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsByClass
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsByClass [运行时间：0.388063s][吞吐率：2.58req/s] [内存消耗：572.11kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:50:59+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyById
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyById [运行时间：0.389369s][吞吐率：2.57req/s] [内存消耗：567.25kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:51:03+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.315737s][吞吐率：3.17req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:51:03+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.575134s][吞吐率：1.74req/s] [内存消耗：568.62kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:51:03+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.364389s][吞吐率：2.74req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:51:03+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.743918s][吞吐率：1.34req/s] [内存消耗：569.14kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:51:03+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.649112s][吞吐率：1.54req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:51:03+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.853575s][吞吐率：1.17req/s] [内存消耗：567.48kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:51:03+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.541918s][吞吐率：1.85req/s] [内存消耗：574.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:51:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.127634s][吞吐率：7.83req/s] [内存消耗：412.59kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:51:46+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.364706s][吞吐率：2.74req/s] [内存消耗：568.79kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:53:04+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：1.534040s][吞吐率：0.65req/s] [内存消耗：571.09kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:53:27+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.183075s][吞吐率：5.46req/s] [内存消耗：412.59kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:53:28+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.330889s][吞吐率：3.02req/s] [内存消耗：568.79kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:53:30+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.132921s][吞吐率：7.52req/s] [内存消耗：571.09kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:54:00+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/modifySlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/modifySlider [运行时间：0.160304s][吞吐率：6.24req/s] [内存消耗：568.98kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:54:01+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.202496s][吞吐率：4.94req/s] [内存消耗：568.80kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:54:04+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.153279s][吞吐率：6.52req/s] [内存消耗：571.13kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:54:07+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.109337s][吞吐率：9.15req/s] [内存消耗：412.59kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:54:08+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.309543s][吞吐率：3.23req/s] [内存消耗：568.80kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:54:10+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.198756s][吞吐率：5.03req/s] [内存消耗：571.13kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:55:27+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/doUploadImg
+[ log ] 127.0.0.1/wochuang/public/index/Slide/doUploadImg [运行时间：0.394091s][吞吐率：2.54req/s] [内存消耗：376.48kb] [文件加载：38]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:55:39+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/addSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/addSlider [运行时间：0.199709s][吞吐率：5.01req/s] [内存消耗：567.48kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:55:40+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.239808s][吞吐率：4.17req/s] [内存消耗：569.28kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:55:47+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.108837s][吞吐率：9.19req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:55:48+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.363243s][吞吐率：2.75req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:55:48+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.472574s][吞吐率：2.12req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:55:49+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.718309s][吞吐率：1.39req/s] [内存消耗：568.62kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:55:49+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.763294s][吞吐率：1.31req/s] [内存消耗：569.62kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:55:49+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.734241s][吞吐率：1.36req/s] [内存消耗：568.62kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:55:49+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.780601s][吞吐率：1.28req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:55:49+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.683507s][吞吐率：1.46req/s] [内存消耗：574.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:56:18+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.145990s][吞吐率：6.85req/s] [内存消耗：571.13kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:56:20+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.137802s][吞吐率：7.26req/s] [内存消耗：571.13kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:56:20+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.177428s][吞吐率：5.64req/s] [内存消耗：571.13kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:56:20+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.175505s][吞吐率：5.70req/s] [内存消耗：571.13kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:56:20+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.161654s][吞吐率：6.19req/s] [内存消耗：571.13kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:56:20+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.165073s][吞吐率：6.06req/s] [内存消耗：571.13kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:56:21+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.158688s][吞吐率：6.30req/s] [内存消耗：571.13kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:56:22+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.132428s][吞吐率：7.55req/s] [内存消耗：587.43kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:56:48+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/doUploadImg
+[ log ] 127.0.0.1/wochuang/public/index/Slide/doUploadImg [运行时间：0.111793s][吞吐率：8.95req/s] [内存消耗：376.48kb] [文件加载：38]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:56:54+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/addSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/addSlider [运行时间：0.185898s][吞吐率：5.38req/s] [内存消耗：567.47kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:56:54+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.232147s][吞吐率：4.31req/s] [内存消耗：569.29kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:57:08+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/modifySlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/modifySlider [运行时间：0.211133s][吞吐率：4.74req/s] [内存消耗：569.00kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:57:08+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.277003s][吞吐率：3.61req/s] [内存消耗：569.29kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:57:24+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.174413s][吞吐率：5.73req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:57:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.457669s][吞吐率：2.18req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:57:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.459423s][吞吐率：2.18req/s] [内存消耗：569.62kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:57:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.714850s][吞吐率：1.40req/s] [内存消耗：568.62kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:57:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.761471s][吞吐率：1.31req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:57:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.899071s][吞吐率：1.11req/s] [内存消耗：568.62kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:57:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.790645s][吞吐率：1.26req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:57:26+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.634947s][吞吐率：1.57req/s] [内存消耗：574.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:58:06+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/addSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/addSlider [运行时间：0.233387s][吞吐率：4.28req/s] [内存消耗：567.00kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:58:07+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.308268s][吞吐率：3.24req/s] [内存消耗：569.68kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T20:58:10+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.132346s][吞吐率：7.56req/s] [内存消耗：587.20kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:02:35+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.170462s][吞吐率：5.87req/s] [内存消耗：412.59kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:02:37+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.652837s][吞吐率：1.53req/s] [内存消耗：569.26kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:02:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.134906s][吞吐率：7.41req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:02:45+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.458697s][吞吐率：2.18req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:02:45+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.496451s][吞吐率：2.01req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:02:45+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.649973s][吞吐率：1.54req/s] [内存消耗：569.60kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:02:46+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.481270s][吞吐率：2.08req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:02:46+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.861915s][吞吐率：1.16req/s] [内存消耗：568.61kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:02:46+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.939826s][吞吐率：1.06req/s] [内存消耗：568.61kb] [文件加载：47]
+
+---------------------------------------------------------------
+----
+[ 2017-04-20T21:03:10+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.154048s][吞吐率：6.49req/s] [内存消耗：571.12kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:03:13+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.157831s][吞吐率：6.34req/s] [内存消耗：571.12kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:03:15+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.131244s][吞吐率：7.62req/s] [内存消耗：571.12kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:03:17+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.128692s][吞吐率：7.77req/s] [内存消耗：412.59kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:03:18+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.324085s][吞吐率：3.09req/s] [内存消耗：569.26kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:03:23+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.140088s][吞吐率：7.14req/s] [内存消耗：571.12kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:03:25+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.163988s][吞吐率：6.10req/s] [内存消耗：571.12kb] [文件加载：51]
+[ error ] [8]未定义数组下标: 0[D:\UPUPW_AP5.4-1510\UPUPW_AP5.4\htdocs\wochuang\application\common.php:249]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:07:08+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/manager
+[ log ] 127.0.0.1/wochuang/public/index/manager [运行时间：0.546764s][吞吐率：1.83req/s] [内存消耗：414.49kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:07:09+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.320047s][吞吐率：3.12req/s] [内存消耗：569.30kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:07:09+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/uploads/images/slider/20170418/149248008658f57056193ba.png
+[ log ] 127.0.0.1/wochuang/public/uploads/images/slider/20170418/149248008658f57056193ba.png [运行时间：0.270747s][吞吐率：3.69req/s] [内存消耗：367.98kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:07:09+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/uploads/images/slider/20170418/149248007658f5704c3080b.png
+[ log ] 127.0.0.1/wochuang/public/uploads/images/slider/20170418/149248007658f5704c3080b.png [运行时间：0.361968s][吞吐率：2.76req/s] [内存消耗：367.98kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:07:18+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.155869s][吞吐率：6.42req/s] [内存消耗：587.43kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:07:20+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/delSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/delSlider [运行时间：0.139518s][吞吐率：7.17req/s] [内存消耗：587.43kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:08:29+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/doUploadImg
+[ log ] 127.0.0.1/wochuang/public/index/Slide/doUploadImg [运行时间：0.136370s][吞吐率：7.33req/s] [内存消耗：376.49kb] [文件加载：38]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:08:48+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/doUploadImg
+[ log ] 127.0.0.1/wochuang/public/index/Slide/doUploadImg [运行时间：0.129649s][吞吐率：7.71req/s] [内存消耗：376.49kb] [文件加载：38]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:09:01+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/addSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/addSlider [运行时间：0.192944s][吞吐率：5.18req/s] [内存消耗：567.45kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:09:02+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.371184s][吞吐率：2.69req/s] [内存消耗：568.81kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:17+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/doUploadImg
+[ log ] 127.0.0.1/wochuang/public/index/Slide/doUploadImg [运行时间：0.108895s][吞吐率：9.18req/s] [内存消耗：376.49kb] [文件加载：38]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:27+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/addSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/addSlider [运行时间：0.166855s][吞吐率：5.99req/s] [内存消耗：567.45kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:28+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.269854s][吞吐率：3.71req/s] [内存消耗：569.29kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:32+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.107183s][吞吐率：9.33req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:33+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.359689s][吞吐率：2.78req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:34+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.488283s][吞吐率：2.05req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:34+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.504226s][吞吐率：1.98req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:34+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.586629s][吞吐率：1.70req/s] [内存消耗：569.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:34+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.553890s][吞吐率：1.81req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:34+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.855186s][吞吐率：1.17req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:34+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.625805s][吞吐率：1.60req/s] [内存消耗：574.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:45+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsByClass
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsByClass [运行时间：0.200450s][吞吐率：4.99req/s] [内存消耗：572.11kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:45+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyById
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyById [运行时间：0.335249s][吞吐率：2.98req/s] [内存消耗：567.27kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:47+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.290197s][吞吐率：3.45req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:48+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.524981s][吞吐率：1.90req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:48+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.641660s][吞吐率：1.56req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:48+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.594052s][吞吐率：1.68req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:48+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.701795s][吞吐率：1.42req/s] [内存消耗：569.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:48+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.760630s][吞吐率：1.31req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:12:48+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.576763s][吞吐率：1.73req/s] [内存消耗：574.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:13:06+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.623244s][吞吐率：1.60req/s] [内存消耗：413.83kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:13:06+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Salecontroller/getSaleById
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSaleById [运行时间：0.428988s][吞吐率：2.33req/s] [内存消耗：514.08kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:13:24+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.130025s][吞吐率：7.69req/s] [内存消耗：413.28kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:14:17+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.123168s][吞吐率：8.12req/s] [内存消耗：413.28kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:14:59+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.170643s][吞吐率：5.86req/s] [内存消耗：413.28kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:17:52+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.255930s][吞吐率：3.91req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:17:52+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.492200s][吞吐率：2.03req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:17:52+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.519258s][吞吐率：1.93req/s] [内存消耗：569.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:17:52+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.529807s][吞吐率：1.89req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:17:52+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.377794s][吞吐率：2.65req/s] [内存消耗：574.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:17:53+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.993512s][吞吐率：1.01req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:17:53+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：1.308832s][吞吐率：0.76req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:18:05+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.225193s][吞吐率：4.44req/s] [内存消耗：566.71kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:18:06+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Slide/getSliderList
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderList [运行时间：0.178778s][吞吐率：5.59req/s] [内存消耗：569.29kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:18:07+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Salecontroller/getSaleList
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSaleList [运行时间：0.242987s][吞吐率：4.12req/s] [内存消耗：509.29kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:18:09+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.196394s][吞吐率：5.09req/s] [内存消耗：569.59kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:18:12+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.367384s][吞吐率：2.72req/s] [内存消耗：567.94kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:18:14+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/getMSOrderList
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/getMSOrderList [运行时间：0.266071s][吞吐率：3.76req/s] [内存消耗：573.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:20:19+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/doLogin
+[ log ] 127.0.0.1/wochuang/public/index/user/doLogin [运行时间：0.155272s][吞吐率：6.44req/s] [内存消耗：571.45kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:20:26+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/doLogin
+[ log ] 127.0.0.1/wochuang/public/index/user/doLogin [运行时间：0.156518s][吞吐率：6.39req/s] [内存消耗：571.43kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:21:06+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/doLogin
+[ log ] 127.0.0.1/wochuang/public/index/user/doLogin [运行时间：0.158880s][吞吐率：6.29req/s] [内存消耗：574.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:21:24+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.154880s][吞吐率：6.46req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:21:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.496491s][吞吐率：2.01req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:21:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.493113s][吞吐率：2.03req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:21:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.606059s][吞吐率：1.65req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:21:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.651128s][吞吐率：1.54req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:21:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.596672s][吞吐率：1.68req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:21:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.784482s][吞吐率：1.27req/s] [内存消耗：569.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:21:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.487390s][吞吐率：2.05req/s] [内存消耗：574.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:21:59+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.162283s][吞吐率：6.16req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:22:00+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.437110s][吞吐率：2.29req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:22:00+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.819023s][吞吐率：1.22req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:22:00+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.780586s][吞吐率：1.28req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:22:00+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.940287s][吞吐率：1.06req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:22:01+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：1.046566s][吞吐率：0.96req/s] [内存消耗：569.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:22:01+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.807069s][吞吐率：1.24req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:22:01+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.744306s][吞吐率：1.34req/s] [内存消耗：574.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:22:16+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitPay
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitPay [运行时间：0.154402s][吞吐率：6.48req/s] [内存消耗：584.30kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:22:59+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/user/doExit
+[ log ] 127.0.0.1/wochuang/public/index/user/doExit [运行时间：0.096171s][吞吐率：10.40req/s] [内存消耗：378.48kb] [文件加载：38]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:23:08+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/doLogin
+[ log ] 127.0.0.1/wochuang/public/index/user/doLogin [运行时间：0.124090s][吞吐率：8.06req/s] [内存消耗：573.95kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:23:14+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.136309s][吞吐率：7.34req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:23:15+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitPay
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitPay [运行时间：0.232476s][吞吐率：4.30req/s] [内存消耗：584.30kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:23:39+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/userList
+[ log ] 127.0.0.1/wochuang/public/index/user/userList [运行时间：0.169494s][吞吐率：5.90req/s] [内存消耗：590.36kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:23:57+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.226058s][吞吐率：4.42req/s] [内存消耗：567.94kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:23:59+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/getMSOrderList
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/getMSOrderList [运行时间：0.161675s][吞吐率：6.19req/s] [内存消耗：573.52kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:25:16+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.124800s][吞吐率：8.01req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:25:17+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitPay
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitPay [运行时间：0.312105s][吞吐率：3.20req/s] [内存消耗：584.30kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:26:23+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitSend
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitSend [运行时间：0.144717s][吞吐率：6.91req/s] [内存消耗：585.12kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:26:25+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitPay
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitPay [运行时间：0.193450s][吞吐率：5.17req/s] [内存消耗：584.30kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:26:26+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitSend
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitSend [运行时间：0.167005s][吞吐率：5.99req/s] [内存消耗：585.12kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:27:14+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/userList
+[ log ] 127.0.0.1/wochuang/public/index/user/userList [运行时间：0.157169s][吞吐率：6.36req/s] [内存消耗：590.36kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:27:19+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/doDelete
+[ log ] 127.0.0.1/wochuang/public/index/user/doDelete [运行时间：0.127614s][吞吐率：7.84req/s] [内存消耗：563.11kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:27:23+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.171165s][吞吐率：5.84req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:27:24+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitPay
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitPay [运行时间：0.267717s][吞吐率：3.74req/s] [内存消耗：584.30kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:27:25+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/user/doExit
+[ log ] 127.0.0.1/wochuang/public/index/user/doExit [运行时间：0.148126s][吞吐率：6.75req/s] [内存消耗：378.48kb] [文件加载：38]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:28:42+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/email
+[ log ] 127.0.0.1/wochuang/public/index/user/email [运行时间：3.557544s][吞吐率：0.28req/s] [内存消耗：461.51kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:00+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/doRegister
+[ log ] 127.0.0.1/wochuang/public/index/user/doRegister [运行时间：0.223592s][吞吐率：4.47req/s] [内存消耗：564.88kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:25+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/user/doLogin
+[ log ] 127.0.0.1/wochuang/public/index/user/doLogin [运行时间：0.163568s][吞吐率：6.11req/s] [内存消耗：574.13kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:43+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.153095s][吞吐率：6.53req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.529952s][吞吐率：1.89req/s] [内存消耗：574.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.592127s][吞吐率：1.69req/s] [内存消耗：569.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.674038s][吞吐率：1.48req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.623920s][吞吐率：1.60req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.724729s][吞吐率：1.38req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:44+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.770038s][吞吐率：1.30req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:47+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.212602s][吞吐率：4.70req/s] [内存消耗：413.83kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:47+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Salecontroller/getSaleById
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSaleById [运行时间：0.271539s][吞吐率：3.68req/s] [内存消耗：514.08kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:51+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Index/loginOrNot
+[ log ] 127.0.0.1/wochuang/public/index/Index/loginOrNot [运行时间：0.186779s][吞吐率：5.35req/s] [内存消耗：508.91kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:51+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.346678s][吞吐率：2.88req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:51+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Salecontroller/getSaleById
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSaleById [运行时间：0.266543s][吞吐率：3.75req/s] [内存消耗：514.08kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:29:52+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Addresscontroller/getAddress
+[ log ] 127.0.0.1/wochuang/public/index/Addresscontroller/getAddress [运行时间：0.669373s][吞吐率：1.49req/s] [内存消耗：570.12kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:05+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Addresscontroller/addAddress
+[ log ] 127.0.0.1/wochuang/public/index/Addresscontroller/addAddress [运行时间：0.156273s][吞吐率：6.40req/s] [内存消耗：568.93kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:05+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Addresscontroller/getAddress
+[ log ] 127.0.0.1/wochuang/public/index/Addresscontroller/getAddress [运行时间：0.170491s][吞吐率：5.87req/s] [内存消耗：569.08kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:10+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/addOrder
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/addOrder [运行时间：0.163568s][吞吐率：6.11req/s] [内存消耗：631.24kb] [文件加载：49]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:22+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.313294s][吞吐率：3.19req/s] [内存消耗：567.94kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:27+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Classifycontroller/getClassifyList
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassifyList [运行时间：0.285108s][吞吐率：3.51req/s] [内存消耗：566.71kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:27+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsById
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsById [运行时间：0.320473s][吞吐率：3.12req/s] [内存消耗：574.16kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:36+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/goodscontroller/modifyGoods
+[ log ] 127.0.0.1/wochuang/public/index/goodscontroller/modifyGoods [运行时间：0.155336s][吞吐率：6.44req/s] [内存消耗：576.34kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:37+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsList
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsList [运行时间：0.265504s][吞吐率：3.77req/s] [内存消耗：567.94kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:40+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/addOrder
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/addOrder [运行时间：0.209701s][吞吐率：4.77req/s] [内存消耗：651.74kb] [文件加载：49]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:46+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/pingpp
+[ log ] 127.0.0.1/wochuang/public/index/index/pingpp [运行时间：1.959421s][吞吐率：0.51req/s] [内存消耗：568.06kb] [文件加载：66]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:48+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/pingpp
+[ log ] 127.0.0.1/wochuang/public/index/index/pingpp [运行时间：0.475104s][吞吐率：2.10req/s] [内存消耗：568.06kb] [文件加载：66]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:50+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.344131s][吞吐率：2.91req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:51+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.538810s][吞吐率：1.86req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:53+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.453077s][吞吐率：2.21req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:54+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.435425s][吞吐率：2.30req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:56+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.449896s][吞吐率：2.22req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:57+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.458728s][吞吐率：2.18req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:30:59+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.480838s][吞吐率：2.08req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:00+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.788435s][吞吐率：1.27req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:02+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.350106s][吞吐率：2.86req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:03+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.431953s][吞吐率：2.32req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:05+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.478098s][吞吐率：2.09req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:06+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.451878s][吞吐率：2.21req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:08+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.478025s][吞吐率：2.09req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:09+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.474448s][吞吐率：2.11req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:11+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.732468s][吞吐率：1.37req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:12+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.454435s][吞吐率：2.20req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:14+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.759322s][吞吐率：1.32req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:15+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.472112s][吞吐率：2.12req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:16+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.146020s][吞吐率：6.85req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:19+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/pingpp
+[ log ] 127.0.0.1/wochuang/public/index/index/pingpp [运行时间：0.479885s][吞吐率：2.08req/s] [内存消耗：568.06kb] [文件加载：66]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:22+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.528598s][吞吐率：1.89req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:25+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.785803s][吞吐率：1.27req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:28+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.440940s][吞吐率：2.27req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:31+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.456639s][吞吐率：2.19req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:34+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.501351s][吞吐率：1.99req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:37+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.462539s][吞吐率：2.16req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:40+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.420113s][吞吐率：2.38req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:43+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.301808s][吞吐率：3.31req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:46+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.439150s][吞吐率：2.28req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:49+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.456715s][吞吐率：2.19req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:52+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.418384s][吞吐率：2.39req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:55+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.424213s][吞吐率：2.36req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:31:58+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.432077s][吞吐率：2.31req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:01+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.427737s][吞吐率：2.34req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:04+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.455807s][吞吐率：2.19req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:07+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.440339s][吞吐率：2.27req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:10+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.422330s][吞吐率：2.37req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:13+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.431554s][吞吐率：2.32req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:16+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.441918s][吞吐率：2.26req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:19+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.491187s][吞吐率：2.04req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:22+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.474310s][吞吐率：2.11req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:25+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.448655s][吞吐率：2.23req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:28+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.434880s][吞吐率：2.30req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:31+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.427866s][吞吐率：2.34req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:34+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.463866s][吞吐率：2.16req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:37+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.431976s][吞吐率：2.31req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:40+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.449107s][吞吐率：2.23req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:43+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.450422s][吞吐率：2.22req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:43+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/paySuccess
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/paySuccess [运行时间：0.187426s][吞吐率：5.34req/s] [内存消耗：572.81kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:47+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitPay
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitPay [运行时间：0.176691s][吞吐率：5.66req/s] [内存消耗：584.30kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:49+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitSend
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitSend [运行时间：0.176576s][吞吐率：5.66req/s] [内存消耗：587.07kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:50+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitPay
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitPay [运行时间：0.169801s][吞吐率：5.89req/s] [内存消耗：584.30kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:54+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.583942s][吞吐率：1.71req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:54+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.662331s][吞吐率：1.51req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:54+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.539308s][吞吐率：1.85req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:54+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.783831s][吞吐率：1.28req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:54+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.778244s][吞吐率：1.28req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:54+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.817948s][吞吐率：1.22req/s] [内存消耗：569.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:54+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.590040s][吞吐率：1.69req/s] [内存消耗：574.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:56+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.253740s][吞吐率：3.94req/s] [内存消耗：413.83kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:32:56+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Salecontroller/getSaleById
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSaleById [运行时间：0.291590s][吞吐率：3.43req/s] [内存消耗：514.09kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:00+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Index/loginOrNot
+[ log ] 127.0.0.1/wochuang/public/index/Index/loginOrNot [运行时间：0.190936s][吞吐率：5.24req/s] [内存消耗：508.91kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:00+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.230631s][吞吐率：4.34req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:00+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Addresscontroller/getAddress
+[ log ] 127.0.0.1/wochuang/public/index/Addresscontroller/getAddress [运行时间：0.321679s][吞吐率：3.11req/s] [内存消耗：569.08kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:00+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Salecontroller/getSaleById
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSaleById [运行时间：0.355698s][吞吐率：2.81req/s] [内存消耗：514.09kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:02+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/addOrder
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/addOrder [运行时间：0.224867s][吞吐率：4.45req/s] [内存消耗：651.74kb] [文件加载：49]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:06+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitPay
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitPay [运行时间：0.271104s][吞吐率：3.69req/s] [内存消耗：586.17kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:13+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/Receive
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/Receive [运行时间：0.161466s][吞吐率：6.19req/s] [内存消耗：584.33kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:15+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitSend
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitSend [运行时间：0.175136s][吞吐率：5.71req/s] [内存消耗：587.07kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:20+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.246635s][吞吐率：4.05req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:20+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.702472s][吞吐率：1.42req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:20+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.716786s][吞吐率：1.40req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:20+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.528351s][吞吐率：1.89req/s] [内存消耗：574.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:20+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.855720s][吞吐率：1.17req/s] [内存消耗：569.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:20+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.868460s][吞吐率：1.15req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:20+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.896646s][吞吐率：1.12req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:23+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.216690s][吞吐率：4.61req/s] [内存消耗：413.83kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:23+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsById
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsById [运行时间：0.262763s][吞吐率：3.81req/s] [内存消耗：574.15kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:28+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Index/loginOrNot
+[ log ] 127.0.0.1/wochuang/public/index/Index/loginOrNot [运行时间：0.186960s][吞吐率：5.35req/s] [内存消耗：508.91kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:29+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.262395s][吞吐率：3.81req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:29+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Goodscontroller/getGoodsById
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoodsById [运行时间：0.372535s][吞吐率：2.68req/s] [内存消耗：574.15kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:29+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Addresscontroller/getAddress
+[ log ] 127.0.0.1/wochuang/public/index/Addresscontroller/getAddress [运行时间：0.330162s][吞吐率：3.03req/s] [内存消耗：569.08kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:39+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/addOrder
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/addOrder [运行时间：0.213420s][吞吐率：4.69req/s] [内存消耗：648.25kb] [文件加载：49]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:44+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/pingpp
+[ log ] 127.0.0.1/wochuang/public/index/index/pingpp [运行时间：0.493030s][吞吐率：2.03req/s] [内存消耗：568.36kb] [文件加载：66]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:48+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.506680s][吞吐率：1.97req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:51+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.478693s][吞吐率：2.09req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:54+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.443723s][吞吐率：2.25req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:33:57+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.540248s][吞吐率：1.85req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:34:00+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.503728s][吞吐率：1.99req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:34:03+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.439644s][吞吐率：2.27req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:34:06+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/index/chargeCondition
+[ log ] 127.0.0.1/wochuang/public/index/index/chargeCondition [运行时间：0.461279s][吞吐率：2.17req/s] [内存消耗：570.32kb] [文件加载：68]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:34:06+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/paySuccess
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/paySuccess [运行时间：0.162138s][吞吐率：6.17req/s] [内存消耗：572.79kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:34:09+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitPay
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitPay [运行时间：0.230197s][吞吐率：4.34req/s] [内存消耗：586.17kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:34:17+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitSend
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitSend [运行时间：0.168589s][吞吐率：5.93req/s] [内存消耗：588.58kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:34:17+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/Receive
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/Receive [运行时间：0.163003s][吞吐率：6.13req/s] [内存消耗：584.33kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:34:24+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/getMSOrderList
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/getMSOrderList [运行时间：0.179103s][吞吐率：5.58req/s] [内存消耗：573.40kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:34:44+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/modifyOrderStatus
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/modifyOrderStatus [运行时间：0.155919s][吞吐率：6.41req/s] [内存消耗：576.13kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:34:54+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/
+[ log ] 127.0.0.1/wochuang/public/ [运行时间：0.146615s][吞吐率：6.82req/s] [内存消耗：413.88kb] [文件加载：44]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:34:55+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitPay
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitPay [运行时间：0.278965s][吞吐率：3.58req/s] [内存消耗：586.17kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:34:56+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/Receive
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/Receive [运行时间：0.197809s][吞吐率：5.06req/s] [内存消耗：586.34kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:35:00+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/weitSend
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/weitSend [运行时间：0.186213s][吞吐率：5.37req/s] [内存消耗：587.06kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:35:01+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/Receive
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/Receive [运行时间：0.154706s][吞吐率：6.46req/s] [内存消耗：586.34kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:35:08+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/undefined
+[ log ] 127.0.0.1/wochuang/public/undefined [运行时间：0.343508s][吞吐率：2.91req/s] [内存消耗：367.38kb] [文件加载：40]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:35:09+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderBottom
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderBottom [运行时间：0.563225s][吞吐率：1.78req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:35:09+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSliderCenter
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSliderCenter [运行时间：0.582950s][吞吐率：1.72req/s] [内存消耗：568.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:35:09+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Classifycontroller/getClassify
+[ log ] 127.0.0.1/wochuang/public/index/Classifycontroller/getClassify [运行时间：0.759685s][吞吐率：1.32req/s] [内存消耗：566.01kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:35:09+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Slide/getSlider
+[ log ] 127.0.0.1/wochuang/public/index/Slide/getSlider [运行时间：0.819540s][吞吐率：1.22req/s] [内存消耗：569.63kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:35:09+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Salecontroller/getSale
+[ log ] 127.0.0.1/wochuang/public/index/Salecontroller/getSale [运行时间：0.932942s][吞吐率：1.07req/s] [内存消耗：512.51kb] [文件加载：45]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:35:09+08:00 ] 127.0.0.1 127.0.0.1 GET /wochuang/public/index/Goodscontroller/getGoods
+[ log ] 127.0.0.1/wochuang/public/index/Goodscontroller/getGoods [运行时间：0.752582s][吞吐率：1.33req/s] [内存消耗：574.87kb] [文件加载：47]
+
+---------------------------------------------------------------
+[ 2017-04-20T21:43:46+08:00 ] 127.0.0.1 127.0.0.1 POST /wochuang/public/index/Ordercontroller/modifyOrderStatus
+[ log ] 127.0.0.1/wochuang/public/index/Ordercontroller/modifyOrderStatus [运行时间：0.184204s][吞吐率：5.43req/s] [内存消耗：585.13kb] [文件加载：47]
+
+---------------------------------------------------------------

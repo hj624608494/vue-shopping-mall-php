@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+	</style>
+</head>
+<body>
+	<ul class="insert">
+		<li>id<input type="text" value="" name='iddd'></li>
+		<li>good_id<input type="text" value="" name='good_id'></li>
+		<li>price<input type="text" value="" name='price'></li>
+		<li>createtime<input type="text" value="" name='createtime'></li>
+	</ul>
+	<input type="button" value="添加">
+	<input type="button" value="修改">
+	<input type="button" value="删除">
+
+	<hr>
+	<hr>
+<input type="button" value="test">
+<input type="button" value="findAll">
+<script src="../static/js/jquery-1.12.3.min.js"></script>
+<script>
+$(function(){
+	//     $.ajax({
+	//         type:'post',
+	//         url:'http://127.0.0.1/tp/public/index/Salecontroller/getSaleList', 
+	//         success:function(res){
+	//         	var re=JSON.parse(res);
+	//             console.log(re.data)
+	//             console.log(re.msg)
+	//         }
+	//     })
+	var currentPage=1;        //默认 当前第一页
+	var num=3;                //默认 每页10条记录
+	var allPage;			  //总共有多少页
+	var data11={
+		num:num,
+		currentPage:currentPage
+	}
+
+	var ul=document.createElement('ul');
+	var li_first=document.createElement('li');
+	var li_next=document.createElement('li');
+	var li_pre=document.createElement('li');
+	var li_last=document.createElement('li');
+
+
+	li_first.setAttribute('style','background:#ddd;margin:0px 10px; cursor:pointer; color:#000;width:80px;height:30px;text-align:center;line-height:30px;float:left;list-style:none')
+	li_next.setAttribute('style','background:#ddd;margin:0px 10px; cursor:pointer;   color:#000;width:80px;height:30px;text-align:center;line-height:30px;float:left;list-style:none')
+	li_pre.setAttribute('style', 'background:#ddd;margin:0px 10px; cursor:pointer;   color:#000;width:80px;height:30px;text-align:center;line-height:30px;float:left;list-style:none')
+	li_last.setAttribute('style','background:#ddd;margin:0px 10px; cursor:pointer;   color:#000;width:80px;height:30px;text-align:center;line-height:30px;float:left;list-style:none')
+
+	li_first.setAttribute('id','li_first')
+	li_next.setAttribute('id','li_next')
+	li_pre.setAttribute('id','li_pre')
+	li_last.setAttribute('id','li_last')
+
+	ul.appendChild(li_first);
+	ul.appendChild(li_next);
+	ul.appendChild(li_pre);
+	ul.appendChild(li_last);
+
+	li_first.innerHTML='首页';
+	li_next.innerHTML ='下一页';
+	li_pre.innerHTML  ='上一页';
+	li_last.innerHTML ='尾页';
+
+	function dd(a){
+		a.onmouseover=function(){
+			this.style.background='#333';
+			this.style.color='#fff';
+		}
+		a.onmouseout=function(){
+			this.style.background='#ddd';
+			this.style.color='#000';
+		}
+	}
+	dd(li_first)
+	dd(li_next)
+	dd(li_pre)
+	dd(li_last)
+	
+	document.body.appendChild(ul);
+
+	function getGoods(){
+		$.ajax({
+	        type:'post',
+		     url:'http://127.0.0.1/tp/public/index/Salecontroller/getSaleList', 
+	        data:data11,
+	        success:function(res){
+	        	var re=JSON.parse(res); 
+	        	console.log(re);
+	        	if(re.acount){
+	        		allPage=Math.ceil(re.acount/num);
+	        		console.log(allPage)
+	        	}
+	            doclick();
+		    }
+		})
+	}
+	getGoods();  
+	var doclick=function(){
+		li_first.onclick=function(){
+			if(data11.currentPage!=1){
+				getGoods();	
+				data11.currentPage=1;
+			}
+		}
+
+		li_next.onclick=function(){
+			if(data11.currentPage<allPage&&data11.currentPage>=1)
+			{
+				data11.currentPage++;
+				getGoods();	
+			}
+		}
+		li_pre.onclick=function(){		
+			if(data11.currentPage<=allPage&&data11.currentPage>1)
+			{
+				data11.currentPage--;
+				getGoods();	
+			}
+		}
+
+		li_last.onclick=function(){
+			if(data11.currentPage!=allPage){
+				getGoods();	
+				data11.currentPage=allPage;
+			}
+		}
+	}
+	
+
+
+
+		// $("input[value='test']").click(function(){
+	//     $.ajax({
+	//         type:'post',
+	//         url:'http://127.0.0.1/tp/public/index/Salecontroller/test', 
+	//         success:function(res){
+	//         	var re=JSON.parse(res);
+	//             console.log(re.data)
+	//             console.log(re.msg)
+	//         }
+	//     })
+	// })
+	// $("input[value='findAll']").click(function(){
+	//     $.ajax({
+	//         type:'post',
+	//         url:'http://127.0.0.1/tp/public/index/Salecontroller/getSaleList', 
+	//         success:function(res){
+	//         	var re=JSON.parse(res);
+	//             console.log(re.data)
+	//             console.log(re.msg)
+	//         }
+	//     })
+	// })
+	// /*修改*/
+	// $("input[value='修改']").click(function(){
+	// 	// alert($("input[name='good_id']").val())
+	// 	alert($("input[name='iddd']").val())
+	// 	var data1={
+	// 		id:$("input[name='iddd']").val(),
+	// 		// good_id:$("input[name='good_id']").val(),
+	// 		price:$("input[name='price']").val()
+	// 	}
+	//     $.ajax({
+	//         type:'post',
+	//         url:'http://127.0.0.1/tp/public/index/Salecontroller/modifySale', 
+	//         data:data1,
+	//         success:function(res){
+	//         	var re=JSON.parse(res);
+	//             console.log(re.data)
+	//             console.log(re.msg)
+	//         }
+	//     })
+	// })
+	// //添加
+
+	// $("input[value='添加']").click(function(){
+
+	// 	var li=$("ul.insert li");
+
+	// 	var data={
+	// 		good_id:$("input[name='good_id']").val(),
+	// 		price:$("input[name='price']").val(),
+	// 		// createtime:$("input[name='createtime']").val(),
+	// 	}
+	//     $.ajax({
+	//         type:'post',
+	//         url:'http://127.0.0.1/tp/public/index/Salecontroller/addSale',
+	//         data:data,
+	//         success:function(res){
+	//         	var re=JSON.parse(res);
+	//             console.log(re.msg)
+	//         }
+	//     })
+	// })
+		/*修改*/
+	$("input[value='删除']").click(function(){
+		var data1={
+			id:$("input[name='iddd']").val(),
+		}
+	    $.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Salecontroller/delSlider', 
+	        data:data1,
+	        success:function(res){
+	        	var re=JSON.parse(res);
+	            console.log(re.data)
+	            console.log(re.msg)
+	        }
+	    })
+	})
+
+	// // 查询
+	$.ajax({
+	        type:'post',
+	        url:'http://127.0.0.1/tp/public/index/Salecontroller/getSaleById',
+	        data:{id:185},
+	        success:function(res){
+	        	// var re=JSON.parse(res);
+	         //    console.log(re.data)
+	        	var re=JSON.parse(res); 
+	        	console.log(re);
+	    }
+	})
+})
+
+</script>
+
+</body>
+</html>
